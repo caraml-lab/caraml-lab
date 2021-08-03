@@ -1,0 +1,72 @@
+### basic settings
+
+# site properties and page defaults
+title: CARAML Lab
+description: We are a research group focused on developing effiCient, fAir, Robust, and Active Machine Learning algorithms.
+logo: images/logo.svg
+header: images/background.jpg
+footer: images/background.jpg
+baseurl: ""
+# site social media and other links
+links:
+  email: rishabh.iyer@utdallas.edu
+  google-scholar: Rishabh Iyer
+  github: caraml-lab
+  twitter: YourLabHandle
+  instagram: YourLabHandle
+  youtube: YourLabChannel
+
+# automatic citations
+auto-cite:
+  plugins:
+    - name: sources
+      input:
+        - ../_data/sources.yaml
+  output: ../_data/citations.yaml
+
+### advanced settings
+
+# default front matter parameters for markdown files
+defaults:
+  # all markdown files
+  - scope:
+      path: ""
+    values:
+      layout: default
+  # markdown files in /_members
+  - scope:
+      type: "members"
+    values:
+      layout: member
+  # markdown files in /_posts
+  - scope:
+      type: "posts"
+    values:
+      layout: post
+
+# collections
+collections:
+  members:
+    output: true
+
+# sass settings
+sass:
+  sass_dir: css
+
+# syntax highlighting
+highlighter: rouge
+
+# plugins
+plugins:
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-github-metadata
+  - jekyll-avatar
+  - jekyll-gist
+  - jekyll-mentions
+  - jekyll-relative-links
+  - jemoji
+
+# jekyll theme
+theme: null

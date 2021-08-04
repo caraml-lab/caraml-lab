@@ -3,7 +3,7 @@ name: Auto Cite
 on:
   push:
     branches:
-      - main
+      - master
     paths:
       - "_data/sources.yaml"
   pull_request:

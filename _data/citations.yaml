@@ -1,63 +1,39 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: arXiv:2012.10630
+  title: 'GLISTER: Generalization based Data Subset Selection for Efficient and Robust
+    Learning'
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
+  - Krishnateja Killamsetty
+  - Durga Sivasubramanian
+  - Ganesh Ramakrishnan
+  - Rishabh Iyer
+  publisher: arXiv
+  date: 1900-1-1
+  link: https://arxiv.org/abs/2012.10630
+  image: https://ojs.aaai.org/public/journals/2/AAAI21Proceedings-Cover-Issue-9.jpg
+  repo: decile-team/cords
   tags:
-  - knowledge graphs
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+  - machine learning
+  - efficient machine learning
+  - subset selection
+  - submodular optimization
+- id: http://proceedings.mlr.press/v139/killamsetty21a.html
+  title: 'GRAD-MATCH: Gradient Matching based Data Subset Selection for Efficient
+    Deep Model Training'
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-  - type: preprint
-    link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
-  - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
-  - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
+  - Krishnateja Killamsetty
+  - Durga S
+  - Ganesh Ramakrishnan
+  - Abir De
+  - Rishabh Iyer
+  publisher: International Conference on Machine Learning
+  date: 1900-1-1
+  link: http://proceedings.mlr.press/v139/killamsetty21a.html
+  image: http://proceedings.mlr.press/v139/assets/images/logo-pmlr.svg
+  repo: decile-team/cords
+  tags:
+  - machine learning
+  - efficient machine learning
+  - subset selection
+  - submodular optimization

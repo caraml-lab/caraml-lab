@@ -1,6 +1,6 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: arXiv:2012.10630
+- id: https://ojs.aaai.org/index.php/AAAI/article/view/16988
   title: 'GLISTER: Generalization based Data Subset Selection for Efficient and Robust
     Learning'
   authors:
@@ -8,9 +8,9 @@
   - Durga Sivasubramanian
   - Ganesh Ramakrishnan
   - Rishabh Iyer
-  publisher: arXiv
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
   date: 1900-1-1
-  link: https://arxiv.org/abs/2012.10630
+  link: https://ojs.aaai.org/index.php/AAAI/article/view/16988
   image: https://ojs.aaai.org/public/journals/2/AAAI21Proceedings-Cover-Issue-9.jpg
   repo: decile-team/cords
   tags:

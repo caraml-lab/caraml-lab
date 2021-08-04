@@ -1,0 +1,33 @@
+{% assign emptyarray = "" | split: "," %}
+{% assign id = include.slug | default: include.id | default: "" %}
+{% assign projects = site.projects | default: emptyarray %}
+
+{% assign project = nil %}
+{% for p in projects %}
+  {% if p.slug == id %}
+    {% assign project = p %}
+  {% endif %}
+{% endfor %}
+
+<div class="project_excerpt">
+  {% assign url = project.url | default: "" %}
+  {% assign title = project.title | default: "" %}
+  <p>
+    <a href="{{ url | relative_url }}">{{ title }}</a>
+  </p>
+
+  {% assign author = project.author | default: "" %}
+  {% assign tags = project.tags | default: emptyarray %}
+  {% assign date = project.date | default: "" %}
+  {%
+    include project-info.html
+    author=author
+    tags=tags
+    date=date
+  %}
+
+  {% assign content = project.content | default: "" %}
+  <p>
+    {{ content | strip_html | truncate: 500 }}
+  </p>
+</div>

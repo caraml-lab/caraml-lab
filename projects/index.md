@@ -5,7 +5,7 @@ nav:
   tooltip: Interested in our projects
 ---
 
-# <i class="fas fa-brain"></i>Blog
+# <i class="fas fa-brain"></i>Projects
 
 {% include section.html %}
 

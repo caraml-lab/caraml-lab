@@ -52,15 +52,15 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-[See our resources &nbsp;→](projects)
+[See our projects &nbsp;→](projects)
 {:.center}
 {% endcapture %}
 
 {%
   include feature.html
   image="images/photo.jpg"
-  link="resources"
-  headline="Our Resources"
+  link="projects"
+  headline="Our Projects"
   text=text
 %}
 

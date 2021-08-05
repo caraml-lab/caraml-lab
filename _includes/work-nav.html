@@ -1,0 +1,18 @@
+<p class="work-nav">
+  <span>
+    {%- if include.work.previous -%}
+      <i class="fas fa-angle-left"></i> Previous work<br />
+      <a href="{{ include.work.previous.url | relative_url }}">
+        {{- include.work.previous.title -}}
+      </a>
+    {%- endif -%}
+  </span>
+  <span>
+    {%- if include.work.next -%}
+      Next work <i class="fas fa-angle-right"></i><br />
+      <a href="{{ include.work.next.url | relative_url }}">
+        {{- include.work.next.title -}}
+      </a>
+    {%- endif -%}
+  </span>
+</p>

@@ -9,7 +9,7 @@
   {% endif %}
 {% endfor %}
 
-<div class="project-excerpt">
+<div class="work-excerpt">
   {% assign url = work.url | default: "" %}
   {% assign title = work.title | default: "" %}
   <p>
@@ -20,7 +20,7 @@
   {% assign tags = work.tags | default: emptyarray %}
   {% assign date = work.date | default: "" %}
   {%
-    include project-info.html
+    include work-info.html
     author=author
     tags=tags
     date=date

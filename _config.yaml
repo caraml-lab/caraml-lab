@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: post
-  # markdown files in /_projects
+  # markdown files in /_works
   - scope:
       type: "projects"
     values:

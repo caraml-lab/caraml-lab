@@ -1,24 +1,24 @@
 {% assign emptyarray = "" | split: "," %}
 {% assign id = include.slug | default: include.id | default: "" %}
-{% assign projects = site.projects | default: emptyarray %}
+{% assign works = site.works | default: emptyarray %}
 
-{% assign project = nil %}
-{% for p in projects %}
+{% assign work = nil %}
+{% for p in works %}
   {% if p.slug == id %}
-    {% assign project = p %}
+    {% assign work = p %}
   {% endif %}
 {% endfor %}
 
 <div class="project-excerpt">
-  {% assign url = project.url | default: "" %}
-  {% assign title = project.title | default: "" %}
+  {% assign url = work.url | default: "" %}
+  {% assign title = work.title | default: "" %}
   <p>
     <a href="{{ url | relative_url }}">{{ title }}</a>
   </p>
 
-  {% assign author = project.author | default: "" %}
-  {% assign tags = project.tags | default: emptyarray %}
-  {% assign date = project.date | default: "" %}
+  {% assign author = work.author | default: "" %}
+  {% assign tags = work.tags | default: emptyarray %}
+  {% assign date = work.date | default: "" %}
   {%
     include project-info.html
     author=author
@@ -26,7 +26,7 @@
     date=date
   %}
 
-  {% assign content = project.content | default: "" %}
+  {% assign content = work.content | default: "" %}
   <p>
     {{ content | strip_html | truncate: 500 }}
   </p>

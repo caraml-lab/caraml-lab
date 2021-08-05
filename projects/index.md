@@ -11,7 +11,7 @@ nav:
 
 {% include search-info.html %}
 
-{% include list.html data="works" component="project-excerpt" %}
+{% include list.html data="works" component="work-excerpt" %}
 
 {% include section.html %}
 

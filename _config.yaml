@@ -45,7 +45,7 @@ defaults:
       layout: post
   # markdown files in /_works
   - scope:
-      type: "projects"
+      type: "works"
     values:
       layout: project
 

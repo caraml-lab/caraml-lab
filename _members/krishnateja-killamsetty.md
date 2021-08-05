@@ -8,7 +8,7 @@ aliases:
   - KK
 
 links:
-  home-page: krishnatejakillamsetty.com
+  home-page: https://krishnatejakillamsetty.com/
   email: krishnateja.killamsetty@utdallas.edu
   github: krishnatejakk
 ---

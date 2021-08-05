@@ -47,11 +47,14 @@ defaults:
   - scope:
       type: "works"
     values:
-      layout: project
+      layout: work
 
 # collections
 collections:
   members:
+    output: true
+
+  works:
     output: true
 
 # sass settings

@@ -1,6 +1,6 @@
 ---
 name: Krishnateja Killamsetty 
-image: images/member.jpg
+image: images/krishnateja_killamsetty.jpg
 description: PhD Student
 role: phd
 aliases:

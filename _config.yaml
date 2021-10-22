@@ -7,6 +7,7 @@ logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: ""
+repository: "caraml-lab/caraml-lab"
 # site social media and other links
 links:
   email: rishabh.iyer@utdallas.edu

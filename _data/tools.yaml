@@ -7,35 +7,35 @@
 
 - name: DISTIL
   group: featured
-  image: images/distil_logo.svg
+  image: images/distil_logo.png
   link: https://github.com/decile-team/distil
   description: A Deep, dIverSified inTeractIve Learning library for performing active learning in deep learning. Using PyTorch, DISTIL implements many state-of-the-art active learning strategies to help reduce labeling costs when procuring new data. By selecting only the most informative unlabeled data, DISTIL is able to reduce the required labeling cost by a factor of 2x to 5x.
   repo: https://github.com/decile-team/distil
 
 - name: Jensen
   group: featured
-  image: images/jensen_logo.svg
+  image: images/jensen_logo.png
   link: https://github.com/decile-team/jensen
   description: A C++ toolkit with API support for convex optimization. Jensen implements many convex optimization algorithms across a range of different kinds of convex losses that are commonly used across different kinds of regressors and classifiers. Including convex optimization algorithms such as gradient descent, stochastic gradient descent, L-BFGS, and more, Jensen allows for training and deploying models with only a few lines of code while easily supporting future convex optimization algorithms within its framework.
   repo: https://github.com/decile-team/jensen
 
 - name: SPEAR
   group: featured
-  image: images/spear_logo.svg
+  image: images/spear_logo.png
   link: https://github.com/decile-team/spear
   description: A SemisuPervisEd dAta pRogramming library using Python. Implementing several revent data programming approaches, SPEAR provides its users with the capability to programmatically label and build training datasets using weak supervision. By combining subset selection techniques, data programming priciples, and semi-supervised learning, SPEAR provides state-of-the-art capacity in its space.
   repo: https://github.com/decile-team/spear
 
 - name: SubModLib
   group: featured
-  image: images/submodlib_logo.svg
+  image: images/submodlib_logo.png
   link: https://github.com/decile-team/submodlib
   description: An efficient, scalable submodular optimization library for many common choices of submodular functions and submodular optimization techniques. SubModLib provides a Python interface for its users while implementing its core functionality in C++ to combine Python's ease of use with C++'s efficiency. By providing a modularized approach to submodular optimization, SubModLib makes it easy to solve a wide breadth of problems, notably including many of such present within data-efficient machine learning. SubModLib is used frequently in our other toolkits.
   repo: https://github.com/decile-team/submodlib
 
 - name: TRUST
   group: featured
-  image: images/trust_logo.svg
+  image: images/trust_logo.png
   link: https://github.com/decile-team/trust
   description: A TaRgeted sUbSet selecTion library for procuring data slices of interest to improve model performance and to personalize your models. Leveraging PyTorch, TRUST provides a number of efficient implementations of algorithms used in targeted subset selection. TRUST is capable of filtering out undesired out-of-distribution data, ignoring redundancies in the data, and mining rare instances in the data. All such methods easily places the capability to personalize models within the hands of its users, allowing for optimal performance in a given domain via targeted subset selection. 
   repo: https://github.com/decile-team/trust

@@ -63,7 +63,7 @@ Boddeti Mohanvarakrishna, Gautam Raju, Krishnateja Killamsetty, Kishore Subraman
 
 ## Software
 -----------
-Krishnateja Killamsetty, Rishabh Iyer, Dheeraj N Bhat. **[“CORDS: COResets and Data Subset selection”](https://github.com/decile-team/cords).** GitHub repository. GitHub, 2021.
+Krishnateja Killamsetty, Dheeraj N Bhat, Rishabh Iyer. **[“CORDS: COResets and Data Subset selection”](https://github.com/decile-team/cords).** GitHub repository. GitHub, 2021.
 
 ## Workshop Papers
 ------------------

@@ -67,6 +67,8 @@ Krishnateja Killamsetty, Dheeraj N Bhat, Rishabh Iyer. **[“CORDS: COResets and
 
 ## Workshop Papers
 ------------------
-Savan Amitbhai Visalpara, Krishnateja Killamsetty, Rishabh Iyer, **["A Data Subset Selection Framework for Efficient Hyper-Parameter Tuning and Automatic Machine Learning"](https://krishnatejakillamsetty.me/files/Hyperparam_SubsetML.pdf).** Workshop on Subset Selection in Machine Learning, SubSetML 2021, In Conjunction with ICML 2021
+Krishnateja Killamsetty\*, Changbin Li\*, Chen Zhao, Rishabh Iyer, Feng Chen. **[A Nested Bi-level Optimization Framework for Robust Few Shot Learning]().** Fifth Workshop on Meta-Learning at the Conference on Neural Information Processing Systems, In Conjunction with NeurIPS 2021
 
-Krishnateja Killamsetty, Durga Sivasubramanian, Baharan Mirzasoleiman, Ganesh Ramakrishnan, Abir De, Rishabh Iyer, **["A Gradient Matching Framework for Efficient Learning"](https://krishnatejakillamsetty.me/files/GradMatch_ICLR_workshop.pdf).** Workshop on Hardware Aware Efficient Training, In Conjunction with ICLR 2021
+Savan Amitbhai Visalpara, Krishnateja Killamsetty, Rishabh Iyer. **["A Data Subset Selection Framework for Efficient Hyper-Parameter Tuning and Automatic Machine Learning"](https://krishnatejakillamsetty.me/files/Hyperparam_SubsetML.pdf).** Workshop on Subset Selection in Machine Learning, SubSetML 2021, In Conjunction with ICML 2021
+
+Krishnateja Killamsetty, Durga Sivasubramanian, Baharan Mirzasoleiman, Ganesh Ramakrishnan, Abir De, Rishabh Iyer. **["A Gradient Matching Framework for Efficient Learning"](https://krishnatejakillamsetty.me/files/GradMatch_ICLR_workshop.pdf).** Workshop on Hardware Aware Efficient Training, In Conjunction with ICLR 2021

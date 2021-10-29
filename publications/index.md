@@ -27,7 +27,7 @@ title: "Publications"
 author_profile: true
 --- -->
 
-For a complete list of publications from our lab, please visit the following [Google Scholar Profile]().
+For a complete list of publications from our lab, please visit the following [Google Scholar Profile](https://scholar.google.com/citations?user=l_XxJ1kAAAAJ&hl=en).
 
 \* indicates equal contribution
   

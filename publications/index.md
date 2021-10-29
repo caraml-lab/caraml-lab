@@ -53,14 +53,6 @@ Krishnateja Killamsetty, Durga Sivasubramanian, Ganesh Ramakrishnan, Abir De, Ri
 
 Krishnateja Killamsetty, Durga Sivasubramanian, Ganesh Ramakrishnan, Rishabh Iyer. **[“GLISTER: Generalization based Data Subset Selection for Efficient and Robust Learning”](https://ojs.aaai.org/index.php/AAAI/article/view/16988).** In Thirty-Fifth AAAI Conference on Artificial Intelligence, AAAI 2021, Virtual Event, February 2-9, 2021, 8110–8118. AAAI Press, 2021. (21% Acceptance Rate)
 
-## Patents
-----------
-Boddeti Mohanvarakrishna, Gautam Raju, Krishnateja Killamsetty, Swadeep Kumar, **SYSTEM AND METHOD FOR ASSIGNING RESPONSIBILITY SCORES TO USERS OF VEHICLE**, Indian Patent (Application No: 201911022751)
-
-Boddeti Mohanvarakrishna, Gautam Raju, Krishnateja Killamsetty, Swadeep Kumar, **SYSTEM AND METHOD FOR PREDICTING BEHAVIOUR OF A USER OF A VEHICLE**, Indian Patent (Application No: 201911022492)
-
-Boddeti Mohanvarakrishna, Gautam Raju, Krishnateja Killamsetty, Kishore Subramanian, **METHOD AND SYSTEM FOR EXTRACTING AND GENERATING CRITICAL TEST SCENARIOS FOR AUTONOMOUS VEHICLES**, Indian Patent (Application No: 201841048116)
-
 ## Software
 -----------
 Krishnateja Killamsetty, Dheeraj N Bhat, Rishabh Iyer. **[“CORDS: COResets and Data Subset selection”](https://github.com/decile-team/cords).** GitHub repository. GitHub, 2021.

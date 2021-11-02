@@ -18,7 +18,3 @@ To supplement and apply our research, we develop and maintain a variety of softw
 {% include list.html component="card" data="tools" filters="group: featured" %}
 
 {% include section.html %}
-
-## More
-
-Anything else we wanted to add here?

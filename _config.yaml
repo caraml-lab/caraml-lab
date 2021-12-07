@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: CARAML Lab
 description: We are a research group focused on developing effiCient, fAir, Robust, and Active Machine Learning algorithms.
-logo: images/logo.svg
+logo: images/logo.png
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: ""

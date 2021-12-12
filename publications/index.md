@@ -52,22 +52,50 @@ MS Ozdayi, M Kantarcioglu, R Iyer. **[“BiFair: Training Fair Models with Bilev
 
 ## Peer-Reviewed Publications (Conferences & Journals)
 ------------------------------------------------------
-Suraj Kothawade, Vishal Kaushal, Ganesh Ramakrishnan, Jeff Bilmes, Rishabh Iyer. **[“ PRISM: A Rich Class of Parameterized Submodular Information Measures for Guided Data Subset Selection”](https://arxiv.org/abs/2103.00128).** To Appear in the Thirty-Sixth AAAI Conference on Artificial Intelligence, AAAI 2022.
+Suraj Kothawade, Vishal Kaushal, Ganesh Ramakrishnan, Jeff Bilmes, Rishabh Iyer. **[“PRISM: A Rich Class of Parameterized Submodular Information Measures for Guided Data Subset Selection”](https://arxiv.org/abs/2103.00128).** To Appear in the Thirty-Sixth AAAI Conference on Artificial Intelligence, AAAI 2022. (15% Acceptance Rate)
 
-Krishnateja Killamsetty\*, Changbin Li\*, Chen Zhao, Rishabh Iyer, Feng Chen. **[“A Reweighted Meta Learning Framework for Robust Few Shot Learning”](http://arxiv.org/abs/2011.06782).** To Appear in the Thirty-Sixth AAAI Conference on Artificial Intelligence, AAAI 2022.
+Krishnateja Killamsetty\*, Changbin Li\*, Chen Zhao, Rishabh Iyer, Feng Chen. **[“A Reweighted Meta Learning Framework for Robust Few Shot Learning”](http://arxiv.org/abs/2011.06782).** To Appear in the Thirty-Sixth AAAI Conference on Artificial Intelligence, AAAI 2022. (15% Acceptance Rate)
 
 Rishabh Iyer, Ninad Khargonkar, Jeff Bilmes, Himanshu Asnani. **[“Generalized Submodular Information Measures: Theoretical Properties, Examples, Optimization, Algorithms, and Applications”](https://ieeexplore.ieee.org/document/9592798).** To Appear In IEEE Transactions of Information Theory, 2021
 
-Suraj Kothawade, Nathan Beck, Krishnateja Killamsetty, Rishabh Iyer, **[SIMILAR: Submodular Information Measures Based Active Learning In Realistic Scenarios](https://arxiv.org/abs/2107.00717)**, To Appear In Neural Information Processing Systems, NeurIPS 2021
+Suraj Kothawade, Nathan Beck, Krishnateja Killamsetty, Rishabh Iyer, **[SIMILAR: Submodular Information Measures Based Active Learning In Realistic Scenarios](https://arxiv.org/abs/2107.00717)**, To Appear In Neural Information Processing Systems, NeurIPS 2021. (26% Acceptance Rate)
 
-Krishnateja Killamsetty, Xujiang Zhou, Feng Chen, and Rishabh Iyer, **[RETRIEVE: Coreset Selection for Efficient and Robust Semi-Supervised Learning](https://arxiv.org/abs/2106.07760)**, To Appear In Neural Information Processing Systems, NeurIPS 2021
+Krishnateja Killamsetty, Xujiang Zhou, Feng Chen, and Rishabh Iyer, **[RETRIEVE: Coreset Selection for Efficient and Robust Semi-Supervised Learning](https://arxiv.org/abs/2106.07760)**, To Appear In Neural Information Processing Systems, NeurIPS 2021. (26% Acceptance Rate)
+
+Ping Zhang, Rishabh K Iyer, Ashish V. Tendulkar, Gaurav Aggarwal, Abir De, **[Learning to Select Exogenous Events for Marked Temporal Point Process](https://papers.nips.cc/paper/2021/file/032abcd424b4312e7087f434ef1c0094-Paper.pdf)**, To Appear In Neural Information Processing Systems, NeurIPS 2021. (26% Acceptance Rate)
+
+Durga Sivasubramanian, Rishabh Iyer, Ganesh Ramakrishnan, and Abir De, **[Training Data Subset Selection for Regression with Controlled Validation Error](https://papers.nips.cc/paper/2021/file/032abcd424b4312e7087f434ef1c0094-Paper.pdf)**, To Appear In Neural Information Processing Systems, NeurIPS 2021
+
+Durga Sivasubramanian, Rishabh Iyer, Ganesh Ramakrishnan, and Abir De.**[“Semi-Supervised Data Programming with Subset Selection”](https://doi.org/10.18653/v1/2021.findings-acl.408).** In Findings of the Association for Computational Linguistics: ACL/IJCNLP 2021, Online Event, August 1-6, 2021, ACL/IJCNLP 2021:4640–4651. Findings of ACL. Association for Computational Linguistics, 2021. (Long paper)
+
+Krishnateja Killamsetty, Durga Sivasubramanian, Ganesh Ramakrishnan, Abir De, Rishabh Iyer. **[“GRAD-MATCH: Gradient Matching based Data Subset Selection for Efficient Deep Model Training”](http://proceedings.mlr.press/v139/killamsetty21a.html).** In Proceedings of the 38th International Conference on Machine Learning, ICML 2021, 18-24 July 2021, Virtual Event, 139:5464–5474. Proceedings of Machine Learning Research. PMLR, 2021. (21% Acceptance Rate)
+
+Krishnateja Killamsetty, Durga Sivasubramanian, Ganesh Ramakrishnan, Rishabh Iyer. **[“GLISTER: Generalization based Data Subset Selection for Efficient and Robust Learning”](https://ojs.aaai.org/index.php/AAAI/article/view/16988).** In Thirty-Fifth AAAI Conference on Artificial Intelligence, AAAI 2021, Virtual Event, February 2-9, 2021, 8110–8118. AAAI Press, 2021. (21% Acceptance Rate)
+
+Atul Sahay, Anshul Nasery, Ayush Maheshwari, Ganesh Ramakrishnan, and Rishabh Iyer, **[Rule Augmented Unsupervised Constituency Parsing](https://arxiv.org/pdf/2105.10193.pdf)**, To Appear in Findings of ACL, 2021 (Short Paper)
+
+Chandrashekhar Lavania, Kai Wei, Rishabh Iyer, and Jeff Bilmes, **[A Practical Online Framework with a Fixed Memory Budget for Extracting Running Video Summaries](https://people.ece.uw.edu/bilmes/p/mypubs/lavania-videosum-sdm-2021.pdf)**, SIAM International Conference on Data Mining, SDM 2021. (21.25% Acceptance Rate)  **[Video Demo of the System in Action](https://www.youtube.com/watch?v=lTzLWGcb8Mg)**
 
 
-Ayush Maheshwari, Oishik Chatterjee, Krishnateja Killamsetty, Ganesh Ramakrishnan, Rishabh Iyer.**[“Semi-Supervised Data Programming with Subset Selection”](https://doi.org/10.18653/v1/2021.findings-acl.408).** In Findings of the Association for Computational Linguistics: ACL/IJCNLP 2021, Online Event, August 1-6, 2021, ACL/IJCNLP 2021:4640–4651. Findings of ACL. Association for Computational Linguistics, 2021. (Long paper)
+Himanshu Asnani, Jeff Bilmes, and Rishabh Iyer, **[Independence Properties of Generalized Submodular Information Measures](https://arxiv.org/pdf/2108.03154.pdf)**, 2021 IEEE International Symposium on Information Theory, ISIT 2021
 
-Krishnateja Killamsetty, Durga Sivasubramanian, Ganesh Ramakrishnan, Abir De, Rishabh Iyer. **[“GRAD-MATCH: Gradient Matching based Data Subset Selection for Efficient Deep Model Training”](http://proceedings.mlr.press/v139/killamsetty21a.html).** In Proceedings of the 38th International Conference on Machine Learning, ICML 2021, 18-24 July 2021, Virtual Event, 139:5464–5474. Proceedings of Machine Learning Research. PMLR, 2021.
+Rishabh Iyer, Ninad Khargonkar, Jeff Bilmes, and Himanshu Asnani, **[Submodular Combinatorial Information Measures with Applications in Machine Learning](https://arxiv.org/pdf/2006.15412.pdf)**, The 32nd International Conference on Algorithmic Learning Theory, ALT 2021 (29.2% Acceptance Rate).**[Related Video](https://www.youtube.com/watch?v=m4pw2EPURpE&t=5s)**
 
-Krishnateja Killamsetty, Durga Sivasubramanian, Ganesh Ramakrishnan, Rishabh Iyer. **[“GLISTER: Generalization based Data Subset Selection for Efficient and Robust Learning”](https://ojs.aaai.org/index.php/AAAI/article/view/16988).** In Thirty-Fifth AAAI Conference on Artificial Intelligence, AAAI 2021, Virtual Event, February 2-9, 2021, 8110–8118. AAAI Press, 2021.
+Srijita Das, Rishabh Iyer, Sriraam Natarajan, **[A Clustering based Selection Framework for  Cost Aware and Test-time Feature Elicitation](https://arxiv.org/pdf/2105.10193.pdf)**, In CODS-COMAD 2021 (Honorable Mention, Research Track)
+
+Rishabh Iyer and Jeff Bilmes, **[Concave Aspects of Submodular Functions](https://arxiv.org/pdf/2105.10193.pdf)**, In IEEE International Symposium on Information Theory, ISIT 2020. (Longer version of this paper: **[Polyhedral aspects of submodularity, convexity and concavity](https://arxiv.org/abs/1506.07329)**, arXiv preprint arXiv:1506.07329) 
+
+Rishabh Iyer, **[Robust Submodular Minimization with Applications to Cooperative Modeling](https://arxiv.org/abs/2001.09360)**, The 24th European Conference on Artificial Intelligence (ECAI) 2020, Santiago de Compostela, Spain (26.8% Acceptance Rate). **[Related Video](https://www.youtube.com/watch?v=eDzXylbXg3E)**
+
+Rishabh Iyer and Jeff Bilmes, **[A Memoization Framework for Scaling Submodular Optimization to Large Scale Problems](https://arxiv.org/abs/1902.10176)**, Artificial Intelligence and Statistics (AISTATS) 2019, Naha, Okinawa, Japan (32.4% Acceptance Rate)
+
+Rishabh Iyer and Jeff Bilmes, **[Near Optimal Algorithms for Hard Submodular Programs with Discounted Cooperative Costs](https://arxiv.org/abs/1902.10172)**, Artificial Intelligence and Statistics (AISTATS) 2019, Naha, Okinawa, Japan (32.4% Acceptance Rate)
+
+Vishal Kaushal, Sandeep Subramanium, Suraj Kothawade, Rishabh Iyer, and Ganesh Ramakrishnan, **[Learning From Less Data: A Unified Data Subset Selection and Active Learning Framework for Computer Vision](https://www.cse.iitb.ac.in/~ganesh/papers/wacv2019a.pdf)**, 7th IEEE Winter Conference on Applications of Computer Vision (WACV), 2019 Hawaii, USA 
+
+Vishal Kaushal, Rishabh Iyer, Suraj Kothawade, Rohan Mahadev, Khoshrav Doctor, and Ganesh Ramakrishnan, **[Learning From Less Data: A Unified Data Subset Selection and Active Learning Framework for Computer Vision](https://www.cse.iitb.ac.in/~ganesh/papers/wacv2019b.pdf)**, 7th IEEE Winter Conference on Applications of Computer Vision (WACV), 2019 Hawaii, USA 
+
+Vishal Kaushal, Rishabh Iyer, Khoshrav Doctor, Anurag Sahoo, Pratik Dubal, Suraj Kothawade, Rohan Mahadev, Kunal Dargan, Ganesh Ramkrishnan, **[Demystifying Multi-Faceted Video Summarization: Tradeoff Between Diversity,Representation, Coverage and Importance](https://www.cse.iitb.ac.in/~ganesh/papers/wacv2019c.pdf)**, 7th IEEE Winter Conference on Applications of Computer Vision (WACV), 2019 Hawaii, USA 
 
 ## Software
 -----------

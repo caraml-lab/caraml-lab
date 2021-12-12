@@ -91,11 +91,11 @@ Rishabh Iyer and Jeff Bilmes, **[A Memoization Framework for Scaling Submodular 
 
 Rishabh Iyer and Jeff Bilmes, **[Near Optimal Algorithms for Hard Submodular Programs with Discounted Cooperative Costs](https://arxiv.org/abs/1902.10172)**, Artificial Intelligence and Statistics (AISTATS) 2019, Naha, Okinawa, Japan (32.4% Acceptance Rate)
 
-Vishal Kaushal, Sandeep Subramanium, Suraj Kothawade, Rishabh Iyer, and Ganesh Ramakrishnan, **[Learning From Less Data: A Unified Data Subset Selection and Active Learning Framework for Computer Vision](https://www.cse.iitb.ac.in/~ganesh/papers/wacv2019a.pdf)**, 7th IEEE Winter Conference on Applications of Computer Vision (WACV), 2019 Hawaii, USA 
+Vishal Kaushal, Sandeep Subramanium, Suraj Kothawade, Rishabh Iyer, and Ganesh Ramakrishnan, **[A Framework Towards Domain Specific Video Summarization](https://www.cse.iitb.ac.in/~ganesh/papers/wacv2019a.pdf)**, 7th IEEE Winter Conference on Applications of Computer Vision (WACV), 2019 Hawaii, USA . **[Link to Video](https://drive.google.com/open?id=11QUoflE1QEXWF_-rj4GIYxfXYRpHnd1w)**
 
-Vishal Kaushal, Rishabh Iyer, Suraj Kothawade, Rohan Mahadev, Khoshrav Doctor, and Ganesh Ramakrishnan, **[Learning From Less Data: A Unified Data Subset Selection and Active Learning Framework for Computer Vision](https://www.cse.iitb.ac.in/~ganesh/papers/wacv2019b.pdf)**, 7th IEEE Winter Conference on Applications of Computer Vision (WACV), 2019 Hawaii, USA 
-
-Vishal Kaushal, Rishabh Iyer, Khoshrav Doctor, Anurag Sahoo, Pratik Dubal, Suraj Kothawade, Rohan Mahadev, Kunal Dargan, Ganesh Ramkrishnan, **[Demystifying Multi-Faceted Video Summarization: Tradeoff Between Diversity,Representation, Coverage and Importance](https://www.cse.iitb.ac.in/~ganesh/papers/wacv2019c.pdf)**, 7th IEEE Winter Conference on Applications of Computer Vision (WACV), 2019 Hawaii, USA 
+Vishal Kaushal, Rishabh Iyer, Suraj Kothawade, Rohan Mahadev, Khoshrav Doctor, and Ganesh Ramakrishnan, **[Learning From Less Data: A Unified Data Subset Selection and Active Learning Framework for Computer Vision](https://www.cse.iitb.ac.in/~ganesh/papers/wacv2019b.pdf)**, 7th IEEE Winter Conference on Applications of Computer Vision (WACV), 2019 Hawaii, USA. **[Link to Video](https://drive.google.com/open?id=1RRhZ5WsWliliLhNazOckt2tRyu8MYjU7)**
+ 
+Vishal Kaushal, Rishabh Iyer, Khoshrav Doctor, Anurag Sahoo, Pratik Dubal, Suraj Kothawade, Rohan Mahadev, Kunal Dargan, Ganesh Ramkrishnan, **[Demystifying Multi-Faceted Video Summarization: Tradeoff Between Diversity,Representation, Coverage and Importance](https://www.cse.iitb.ac.in/~ganesh/papers/wacv2019c.pdf)**, 7th IEEE Winter Conference on Applications of Computer Vision (WACV), 2019 Hawaii, USA. **[Link to Video](https://drive.google.com/open?id=1RGuFqCtR0QPpRrsQvvfn4-2hSbkvVzIJ)** 
 
 ## Software
 -----------
@@ -103,8 +103,18 @@ Krishnateja Killamsetty, Dheeraj N Bhat, Rishabh Iyer. **[“CORDS: COResets and
 
 ## Workshop Papers
 ------------------
+Suraj Kothawade, Lakshman Tamil, Rishabh Iyer. **[Targeted Active Learning using Submodular Mutual Information for Imbalanced Medical Image Classification]().** Medical Imaging Meets NeurIPS 2021 Workshop in Conjunction with NeurIPS 2021
+
 Krishnateja Killamsetty\*, Changbin Li\*, Chen Zhao, Rishabh Iyer, Feng Chen. **[A Nested Bi-level Optimization Framework for Robust Few Shot Learning]().** Fifth Workshop on Meta-Learning at the Conference on Neural Information Processing Systems, In Conjunction with NeurIPS 2021
 
 Savan Amitbhai Visalpara, Krishnateja Killamsetty, Rishabh Iyer. **["A Data Subset Selection Framework for Efficient Hyper-Parameter Tuning and Automatic Machine Learning"](https://krishnatejakillamsetty.me/files/Hyperparam_SubsetML.pdf).** Workshop on Subset Selection in Machine Learning, SubSetML 2021, In Conjunction with ICML 2021
 
+Suraj Kothawade, Vishal Kaushal, Ganesh Ramakrishnan, Jeff Bilmes, Rishabh Iyer. **["Submodular Mutual Information for Targeted Data Subset Selection"](https://arxiv.org/abs/2105.00043).** From Shallow to Deep: Overcoming Limited and Adverse Data Workshop, In Conjunction with ICLR 2021
+
 Krishnateja Killamsetty, Durga Sivasubramanian, Baharan Mirzasoleiman, Ganesh Ramakrishnan, Abir De, Rishabh Iyer. **["A Gradient Matching Framework for Efficient Learning"](https://krishnatejakillamsetty.me/files/GradMatch_ICLR_workshop.pdf).** Workshop on Hardware Aware Efficient Training, In Conjunction with ICLR 2021
+
+Vishal Kaushal, Suraj Kothawade, Rishabh Iyer, Ganesh Ramakrishnan. **["Realistic Video Summarization through VISIOCITY: A New Benchmark and Evaluation Framework"](https://arxiv.org/abs/2105.00043)** ACMM Workshops 2020. **[Link to the Dataset](https://visiocity.github.io/)** 
+
+Saiteja Nalla, Mohit Agrawal, Vishal Kaushal, Ganesh Ramakrishnan and Rishabh Iyer. **["Watch Hours in Minutes: Summarizing Videos with User Intent"](https://www.cse.iitb.ac.in/~ganesh/papers/eccv-ws2020.pdf)** Video Turing Test: Toward Human-Level Video Story Understanding, ECCV Workshop 2020.
+
+Srijita Das, Rishabh Iyer and Sriraam Natarajan. **["Cost Aware Feature Elicitation,"](https://aiisc.ai/KiML2020/papers/KiML2020_paper_5.pdf)** nternational Workshop on Knowledge-infused Mining and Learning (KIML) 2020, Organized In conjunction with 26th ACM Conference on Knowledge Discovery and Data Mining (KDD 2020)

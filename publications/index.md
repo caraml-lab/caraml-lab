@@ -33,7 +33,7 @@ For a complete list of publications from our lab, please visit the following [Go
   
 ## Pre-Prints
 -------------
-Rishabh Tiwari, Krishnateja Killamsetty, Rishabh Iyer, Pradeep Shenoy, **"GCR: Gradient Coreset based Replay Buffer Selection for Continual Learning".** (Under review at AAAI 22)
+Rishabh Tiwari, Krishnateja Killamsetty, Rishabh Iyer, Pradeep Shenoy, **"GCR: Gradient Coreset based Replay Buffer Selection for Continual Learning".**
 
 Ayush Maheshwari\*, Krishnateja Killamsetty\*, Ganesh Ramakrishnan, Rishabh Iyer, Marina Danilevsky, Lucian Popa. **[“Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming”](http://arxiv.org/abs/2109.11410).** arXiv [cs.LG], 2021. arXiv:2109.11410.
 

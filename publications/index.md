@@ -97,9 +97,9 @@ Vishal Kaushal, Rishabh Iyer, Suraj Kothawade, Rohan Mahadev, Khoshrav Doctor, a
  
 Vishal Kaushal, Rishabh Iyer, Khoshrav Doctor, Anurag Sahoo, Pratik Dubal, Suraj Kothawade, Rohan Mahadev, Kunal Dargan, Ganesh Ramkrishnan, **[Demystifying Multi-Faceted Video Summarization: Tradeoff Between Diversity,Representation, Coverage and Importance](https://www.cse.iitb.ac.in/~ganesh/papers/wacv2019c.pdf)**, 7th IEEE Winter Conference on Applications of Computer Vision (WACV), 2019 Hawaii, USA. **[Link to Video](https://drive.google.com/open?id=1RGuFqCtR0QPpRrsQvvfn4-2hSbkvVzIJ)** 
 
-## Software
------------
-Krishnateja Killamsetty, Dheeraj N Bhat, Rishabh Iyer. **[“CORDS: COResets and Data Subset selection”](https://github.com/decile-team/cords).** GitHub repository. GitHub, 2021.
+<!-- ## Software
+----------- -->
+<!-- Krishnateja Killamsetty, Dheeraj N Bhat, Rishabh Iyer. **[“CORDS: COResets and Data Subset selection”](https://github.com/decile-team/cords).** GitHub repository. GitHub, 2021. -->
 
 ## Workshop Papers
 ------------------

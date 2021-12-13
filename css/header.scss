@@ -21,15 +21,13 @@ header {
 
   .logo_row {
     display: block;
-    max-width: 100%;
-    height: 30px;
     .logo_logotext{
       @include inline-flex-center;
       max-width: 100%;
-      height: 30px;
+      height: 50px;
       .logo {
         max-width: 100%;
-        height: 30px;
+        height: 50px;
       }
       .logo_text {
         position: relative;

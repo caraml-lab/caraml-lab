@@ -6,6 +6,7 @@ description: We are a research group focused on developing effiCient, fAir, Robu
 logo: images/logo.png
 header: images/background.svg
 footer: images/background.svg
+header-dark: false
 baseurl: ""
 repository: "caraml-lab/caraml-lab"
 # site social media and other links
@@ -54,7 +55,6 @@ defaults:
 collections:
   members:
     output: true
-
   works:
     output: true
 

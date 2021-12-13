@@ -21,9 +21,7 @@ header {
 
   .logo_row {
     display: block;
-    max-width: 100%;
-    height: 50px;
-    
+
     .logo_logotext{
       @include inline-flex-center;
       // display: inline-flex;
@@ -33,8 +31,11 @@ header {
       max-width: 100%;
       height: 50px;
     }
+
     .logo_text {
-      margin: 5px;
+      margin-top: -5px;
+      margin-bottom: 5px;
+      margin-right: 10px;
       font-size: 1.25rem;
       font-weight: bold;
       text-align: center;

@@ -16,6 +16,11 @@
   {%- assign title = site.title -%}
 {%- endif -%}
 
+{%- assign subtitle = site.logo-subtext -%}
+{%- if subtitle == nil -%}
+  {%- assign subtitle = site.subtitle -%}
+{%- endif -%}
+
 <header {% if background %}class="background"{% endif %} {% if background %}style="--background: url('{{ background | relative_url }}')"{% endif %} data-dark="{{ dark }}">
   <a
     href="{{ '/' | relative_url }}"
@@ -25,6 +30,9 @@
     <img src="{{ site.logo | relative_url }}" class="logo" />
     {% if title and title != "" %}
       <span class="logo_text">{{ title }}</span>
+    {% endif %}
+    {% if subtitle and subtitle != "" %}
+      <span class="logo_subtext">{{ subtitle }}</span>
     {% endif %}
   </a>
   <nav class="nav_row">

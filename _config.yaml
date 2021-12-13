@@ -2,6 +2,7 @@
 
 # site properties and page defaults
 title: CARAML Lab
+subtitle: effiCient, fAir, Robust, and Active ML Lab
 description: We are a research group focused on developing effiCient, fAir, Robust, and Active Machine Learning algorithms.
 logo: images/logo.png
 header: images/background.svg

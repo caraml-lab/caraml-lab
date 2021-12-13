@@ -32,6 +32,13 @@ header {
       font-size: 1.5rem;
       text-align: center;
     }
+
+    .logo_subtext {
+      margin-top: 10px;
+      margin-bottom: 10px;
+      font-size: 1rem;
+      text-align: center;
+    }
   }
 
   .nav_row {
@@ -59,7 +66,6 @@ header {
   // adjust based on length of your lab title and # of nav links
   @media (max-width: 900px) {
     align-content: center;
-
     .logo_row,
     .nav_row {
       width: 100%;

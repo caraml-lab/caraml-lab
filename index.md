@@ -26,7 +26,7 @@ CARAML Lab is a research group at the [University of Texas at Dallas, Department
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.png" %}
+{% include banner.html image="images/banner1.jpg" %}
 
 {% include section.html %}
 

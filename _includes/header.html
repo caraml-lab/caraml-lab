@@ -28,12 +28,14 @@
     data-tooltip="Home"
   >
     <img src="{{ site.logo | relative_url }}" class="logo" />
-    {% if title and title != "" %}
+    <div class="logo_cmbtext">
+      {% if title and title != "" %}
       <span class="logo_text">{{ title }}</span>
-    {% endif %}
-    {% if subtitle and subtitle != "" %}
-      <span class="logo_subtext">{{ subtitle }}</span>
-    {% endif %}
+      {% endif %}
+      {% if subtitle and subtitle != "" %}
+        <span class="logo_subtext">{{ subtitle }}</span>
+      {% endif %}
+    </div>
   </a>
   <nav class="nav_row">
     {%- assign pages = site.pages | where_exp: "page", "page.nav" | sort: "nav.order" -%}

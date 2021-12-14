@@ -1,6 +1,6 @@
 ---
 name: Rishabh Iyer
-image: images/rishabh-iyer.png
+image: images/rishabh-iyer.jpg
 description: Principal Investigator
 role: pi
 aliases:

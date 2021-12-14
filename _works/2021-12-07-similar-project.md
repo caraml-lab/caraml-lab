@@ -1,5 +1,5 @@
 ---
-displaytitle: 'SIMILAR'
+displaytitle: 'SIMILAR: Submodular Information Measures Based Active Learning In Realistic
 title: 'SIMILAR: Submodular Information Measures Based Active Learning In Realistic
   Scenarios'
 description: 'Summary of the NeurIPS’21 publication SIMILAR'

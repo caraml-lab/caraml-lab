@@ -36,15 +36,6 @@ We are a diverse team of highly motivated and collaborative researchers working 
   filters="role: masters"
 %}
 
-<!-- {% include section.html %}
-## Undergraduate Students
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: undergrad"
-%} -->
-
 {:.center}
 
 {% include section.html background="images/banner2.jpg" dark=true%}

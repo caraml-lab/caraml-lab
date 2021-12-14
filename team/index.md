@@ -10,25 +10,41 @@ nav:
 We are a diverse team of highly motivated and collaborative researchers working on various aspects of machine learning, focusing on going beyond accuracy and achieving other desiderata such as compute and memory efficiency, human interaction, label efficiency, robustness, fairness, etc. As a team, we value all our members' diverse views and experiences, and they strengthen us. Thanks to a caring team, we have a friendly, inclusive, and healthy environment in our lab. For each team member, success means something different, and we encourage each other to develop and pursue individual passions. Our current team includes graduate students, undergraduate students.
 
 {% include section.html %}
-
+## Principal Investigator
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: pi"
 %}
+
+{% include section.html %}
+## PhD Students
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: phd"
 %}
+
+{% include section.html %}
+## Master's Students
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+  filters="role: masters"
 %}
+
+{% include section.html %}
+## Undergraduate Students
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: undergrad"
+%}
+
 {:.center}
 
 {% include section.html background="images/banner2.jpg" dark=true%}

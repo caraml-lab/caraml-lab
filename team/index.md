@@ -7,10 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We are a diverse team of highly motivated and collaborative researchers working on various aspects of machine learning, focusing on going beyond accuracy and achieving other desiderata such as compute and memory efficiency, human interaction, label efficiency, robustness, fairness, etc. As a team, we value all our members' diverse views and experiences, and they strengthen us. Thanks to a caring team, we have a friendly, inclusive, and healthy environment in our lab. For each team member, success means something different, and we encourage each other to develop and pursue individual passions. Our current team includes graduate students, undergraduate students.
 
 {% include section.html %}
 
@@ -34,10 +31,9 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
+{% include section.html background="images/banner2.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Currently, we are seeking highly motivated students with a broad interest in machine learning and optimization in general. In addition, if you are interested in our work and want to discuss it further, please do not hesitate to contact us. In addition, we welcome collaborations with researchers on the topics of Efficient ML, Active Learning, Semi-Supervised Learning, Robust and Fair ML.
 
 {%
   include link.html

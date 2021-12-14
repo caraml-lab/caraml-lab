@@ -10,7 +10,7 @@ links:
   home-page: https://www.rishiyer.com/ 
   google-scholar: l_XxJ1kAAAAJ
   email: rishabh.iyer@utdallas.edu
-  twitter: rishiiyer
+  twitter: rishiyer
   github: rishabhk108
   linkedin: rishabh-iyer-36893717
   youtube: UCFxNtj-vst1VQKWjtwlzAzQ

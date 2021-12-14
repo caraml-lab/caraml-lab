@@ -36,14 +36,14 @@ We are a diverse team of highly motivated and collaborative researchers working 
   filters="role: masters"
 %}
 
-{% include section.html %}
+<!-- {% include section.html %}
 ## Undergraduate Students
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: undergrad"
-%}
+%} -->
 
 {:.center}
 
@@ -109,72 +109,3 @@ Currently, we are seeking highly motivated students with a broad interest in mac
 - John Halloran (UC Davis)
 
 - Matthai Philipose (Microsoft Research)
-
-{% include section.html %}
-## Collaborations (Past)
-
-- Stefanie Jegelka (Massachusetts Institute of Technology)
-
-- Kai Wei (Microsoft)
-
-- Sebastian Tschiatchek (University of Vienna)
-
-- Max Chickering (Microsoft Research)
-
-- Joel Pfeiffer (Microsoft)
-
-- Denis Charles (Microsoft)
-
-- Eren Manavoglu (Microsoft)
-
-- Chris Meek (Microsoft Research)
-
-- Yoshinobu Kawahara (Osaka University)
-
-- Subhasis Chaudhuri (IIT Bombay)
-
-- Jennifer Gillenwater (Google)
-
-- Shengjei Wang (University of Washington)
-
-- Wenruo Bai (University of Washington)
-
-- Rahul Kidimbi (University of Washington)
-
-- Chandrashekhar Lavania (University of Washington)
-
-- Bethany Lusch (Argonne National Laboratory)
-
-- Yuzong Liu (Amazon)
-
-- Katrin Kirchoff (Amazon)
-
-- Ronak Shah (Microsoft)
-
-
-{% include section.html %}
-## Funding
-
-Our work is made possible by funding from several organizations.
-{:.center}
-
-{%
-  include gallery.html
-  style="square"
-
-  image1="images/nsf_logo.png"
-  link1="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2106937&HistoricalAwards=false"
-  tooltip1="National Science Foundation"
-
-  image2="images/adobe_logo.png"
-  link2="https://www.adobe.com/"
-  tooltip2="Adobe"
-
-  image3="images/google_logo.jpg"
-  link3="https://about.google/intl/ALL_us/"
-  tooltip3="Google"
-
-  image4="images/utd_logo.png"
-  link4="https://www.utdallas.edu/"
-  tooltip4="The University of Texas at Dallas"
-%}

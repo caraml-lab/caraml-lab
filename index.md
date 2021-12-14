@@ -5,7 +5,7 @@ title: Home
 
 CARAML Lab is a research group at the [University of Texas at Dallas, Department of Computer Science](http://cs.utdallas.edu/) led by [Prof. Rishabh Iyer](https://sites.google.com/view/rishabhiyer/home). We are interested in developing efficient, fair, robust, and scalable machine learning algorithms by leveraging theoretical and algorithmic insights from various fields such as combinatorial optimization and subset selection, information theory, continuous, and bi-level optimization.
 
-{% include section.html %}
+{% include section.html dark=true%}
 # Recent News
 
 - Two papers from CARAML lab **are accepted at AAAI 2022!** Congrats Krishnateja and Suraj!
@@ -47,6 +47,33 @@ CARAML Lab is a research group at the [University of Texas at Dallas, Department
 - Our paper on [Data Subset Selection (GLISTER)](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fpdf%2F2012.10630.pdf&sa=D&sntz=1&usg=AFQjCNFtvK_XBpAWIgDexiKPesoAIaRh5w) is **accepted to AAAI 2021!** Congrats Krishnateja and Durga!
 
 - Prof. Rishabh Iyer gave an Invited Talk in the Special Session [Deep Learning and Information Theory](https://www.google.com/url?q=https%3A%2F%2Fece.iisc.ac.in%2F~spcom%2F2020%2Fss_dl_it.html%23WIE3&sa=D&sntz=1&usg=AFQjCNEETmHfq5Wa5R36QI8yLQ7HP9P8EA) at SPCOM 2020 (Virtual)
+
+{% include section.html %}
+# Funding
+
+Our work is made possible by funding from several organizations.
+{:.center}
+
+{%
+  include gallery.html
+  style="square"
+
+  image1="images/nsf_logo.png"
+  link1="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2106937&HistoricalAwards=false"
+  tooltip1="National Science Foundation"
+
+  image2="images/adobe_logo.png"
+  link2="https://www.adobe.com/"
+  tooltip2="Adobe"
+
+  image3="images/google_logo.jpg"
+  link3="https://about.google/intl/ALL_us/"
+  tooltip3="Google"
+
+  image4="images/utd_logo.png"
+  link4="https://www.utdallas.edu/"
+  tooltip4="The University of Texas at Dallas"
+%}
 
 {% include section.html %}
 

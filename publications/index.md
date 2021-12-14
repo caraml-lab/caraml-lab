@@ -54,7 +54,7 @@ MS Ozdayi, M Kantarcioglu, R Iyer. **[“BiFair: Training Fair Models with Bilev
 ------------------------------------------------------
 Suraj Kothawade, Vishal Kaushal, Ganesh Ramakrishnan, Jeff Bilmes, Rishabh Iyer. **[“PRISM: A Rich Class of Parameterized Submodular Information Measures for Guided Data Subset Selection”](https://arxiv.org/abs/2103.00128).** To Appear in the Thirty-Sixth AAAI Conference on Artificial Intelligence, AAAI 2022. (15% Acceptance Rate)
 
-Krishnateja Killamsetty\*, Changbin Li\*, Chen Zhao, Rishabh Iyer, Feng Chen. **[“A Reweighted Meta Learning Framework for Robust Few Shot Learning”](http://arxiv.org/abs/2011.06782).** To Appear in the Thirty-Sixth AAAI Conference on Artificial Intelligence, AAAI 2022. (15% Acceptance Rate)
+Krishnateja Killamsetty\*, Changbin Li\*, Chen Zhao, Rishabh Iyer, Feng Chen. **[A Nested Bi-level Optimization Framework for Robust Few Shot Learning”](http://arxiv.org/abs/2011.06782).** To Appear in the Thirty-Sixth AAAI Conference on Artificial Intelligence, AAAI 2022. (15% Acceptance Rate)
 
 Rishabh Iyer, Ninad Khargonkar, Jeff Bilmes, Himanshu Asnani. **[“Generalized Submodular Information Measures: Theoretical Properties, Examples, Optimization, Algorithms, and Applications”](https://ieeexplore.ieee.org/document/9592798).** To Appear In IEEE Transactions of Information Theory, 2021
 
@@ -105,7 +105,7 @@ Vishal Kaushal, Rishabh Iyer, Khoshrav Doctor, Anurag Sahoo, Pratik Dubal, Suraj
 ------------------
 Suraj Kothawade, Lakshman Tamil, Rishabh Iyer. **[Targeted Active Learning using Submodular Mutual Information for Imbalanced Medical Image Classification]().** Medical Imaging Meets NeurIPS 2021 Workshop in Conjunction with NeurIPS 2021
 
-Krishnateja Killamsetty\*, Changbin Li\*, Chen Zhao, Rishabh Iyer, Feng Chen. **[A Nested Bi-level Optimization Framework for Robust Few Shot Learning]().** Fifth Workshop on Meta-Learning at the Conference on Neural Information Processing Systems, In Conjunction with NeurIPS 2021
+Krishnateja Killamsetty\*, Changbin Li\*, Chen Zhao, Rishabh Iyer, Feng Chen. **[A Nested Bi-level Optimization Framework for Robust Few Shot Learning](https://openreview.net/forum?id=OtokjoNoFu5).** Fifth Workshop on Meta-Learning at the Conference on Neural Information Processing Systems, In Conjunction with NeurIPS 2021
 
 Savan Amitbhai Visalpara, Krishnateja Killamsetty, Rishabh Iyer. **["A Data Subset Selection Framework for Efficient Hyper-Parameter Tuning and Automatic Machine Learning"](https://krishnatejakillamsetty.me/files/Hyperparam_SubsetML.pdf).** Workshop on Subset Selection in Machine Learning, SubSetML 2021, In Conjunction with ICML 2021
 

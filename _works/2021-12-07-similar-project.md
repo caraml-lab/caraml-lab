@@ -1,19 +1,19 @@
 ---
-title: >-
-  SIMILAR: Submodular Information Measures Based Active Learning In Realistic
-  Scenarios
-description: Summary of the NeurIPS’21 publication SIMILAR
+displaytitle: 'SIMILAR'
+title: 'SIMILAR: Submodular Information Measures Based Active Learning In Realistic
+  Scenarios'
+description: 'Summary of the NeurIPS’21 publication SIMILAR'
 date: '2021-12-07T05:03:11.852Z'
 tags:
-  - Efficient Machine Learning
-  - Subset Selection
-  - Semi-Supervised learning
-  - Submodular Optimization
+  - Active Learning
+  - Targeted Active Learning
+  - Submodular Mutual Information Measures
 author: Suraj Kothawade
 member: suraj-kothawade
 ---
 
-\[Accepted to NeurIPS 2021- [Paper](https://proceedings.neurips.cc/paper/2021/file/9af08cda54faea9adf40a201794183cf-Paper.pdf), [Code](https://github.com/decile-team/distil)\]
+\[Accepted to NeurIPS 2021- [Paper](https://proceedings.neurips.cc/paper/2021/file/9af08cda54faea9adf40a201794183cf-Paper.pdf), 
+[Code](https://github.com/decile-team/distil)\]
 
 Over the past several years, active learning (AL) strategies have proven to be useful in reducing labeling costs. However, current methods do not work well when it comes to real-world datasets, which have imperfections and a number of characteristics that make learning from them challenging:
 
@@ -62,8 +62,8 @@ To make using SIMILAR easy, we provide tutorial notebooks for each of the realis
 3.  [Redundancy Tutorial](https://github.com/decile-team/distil/blob/main/tutorials/image_classification/realistic_scenarios/DISTIL_Example_Redundancy_CIFAR10.ipynb)
 4.  [Out-of-distribution data Tutorial](https://github.com/decile-team/distil/blob/main/tutorials/image_classification/realistic_scenarios/DISTIL_Example_OOD_CIFAR10.ipynb)
 
-**Future Thoughts  
-**We believe that SIMILAR is a promising step in the direction of active learning for realistic scenarios. The main limitation of our work is the dependence on good representations to compute similarity. In the future, we also look forward to approaches that can be used in cases where the characteristics of the dataset are completely unknown.
+**Future Thoughts**
+We believe that SIMILAR is a promising step in the direction of active learning for realistic scenarios. The main limitation of our work is the dependence on good representations to compute similarity. In the future, we also look forward to approaches that can be used in cases where the characteristics of the dataset are completely unknown.
 
-**Author  
-**[**Suraj Kothawade**](https://personal.utdallas.edu/~snk170001/)
+**Author**
+[**Suraj Kothawade**](https://personal.utdallas.edu/~snk170001/)

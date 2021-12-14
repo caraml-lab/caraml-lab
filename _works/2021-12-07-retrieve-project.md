@@ -1,4 +1,5 @@
 ---
+displaytitle: 'RETRIEVE'
 title: 'RETRIEVE: Coreset Selection for Efficient and Robust Semi-Supervised Learning'
 description: Summary of the NeurIPS’21 publication RETRIEVE
 date: '2021-12-07T04:19:13.381Z'

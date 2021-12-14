@@ -13,7 +13,7 @@
   {% assign url = work.url | default: "" %}
   {% assign title = work.title | default: "" %}
   <p>
-    <a href="{{ url | relative_url }}">{{ title }}</a>
+    <a href="{{ url | relative_url }}">{{ work.displaytitle }}</a>
   </p>
 
   {% assign author = work.author | default: "" %}

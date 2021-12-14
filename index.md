@@ -5,7 +5,7 @@ title: Home
 
 CARAML Lab is a research group at the [University of Texas at Dallas, Department of Computer Science](http://cs.utdallas.edu/) led by [Prof. Rishabh Iyer](https://sites.google.com/view/rishabhiyer/home). We are interested in developing efficient, fair, robust, and scalable machine learning algorithms by leveraging theoretical and algorithmic insights from various fields such as combinatorial optimization and subset selection, information theory, continuous, and bi-level optimization.
 
-{% include section.html full=true%}
+{% include section.html%}
 
 # News
 

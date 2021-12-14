@@ -9,7 +9,6 @@ nav:
 
 Our lab is part of the [Department of Computer Science](https://cs.utdallas.edu/) at [The University of Texas at Dallas](https://www.utdallas.edu/). Our lab is located in the [ECSS building](https://engineering.utdallas.edu/), room number 3.413.
 
-{:.center}
 {%
   include link.html
   type="email"
@@ -19,7 +18,6 @@ Our lab is part of the [Department of Computer Science](https://cs.utdallas.edu/
   link="rishabh.iyer@utdallas.edu"
   style="button"
 %}
-
 {%
   include link.html
   type="address"

@@ -63,11 +63,11 @@ Our work is made possible by funding from several organizations.
   link2="https://www.adobe.com/"
   tooltip2="Adobe"
 
-  image3="images/google_logo.png"
+  image3="images/google_logo.jpg"
   link3="https://about.google/intl/ALL_us/"
   tooltip3="Google"
 
-  image4="images/utd_logo.jpg"
+  image4="images/utd_logo.png"
   link4="https://www.utdallas.edu/"
   tooltip4="The University of Texas at Dallas"
 %}

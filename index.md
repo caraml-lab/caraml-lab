@@ -47,3 +47,8 @@ CARAML Lab is a research group at the [University of Texas at Dallas, Department
 
 - Prof. Rishabh Iyer gave an Invited Talk in the Special Session [Deep Learning and Information Theory](https://www.google.com/url?q=https%3A%2F%2Fece.iisc.ac.in%2F~spcom%2F2020%2Fss_dl_it.html%23WIE3&sa=D&sntz=1&usg=AFQjCNEETmHfq5Wa5R36QI8yLQ7HP9P8EA) at SPCOM 2020 (Virtual)
 
+<a class="twitter-timeline" href="https://twitter.com/caraml_lab?ref_src=twsrc%5Etfw">Tweets by caraml_lab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{:.center}
+<a href="https://twitter.com/caraml_lab?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @caraml_lab</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/intent/tweet?screen_name=caraml_lab&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @caraml_lab</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{:.center}

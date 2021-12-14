@@ -13,11 +13,9 @@ repository: "caraml-lab/caraml-lab"
 # site social media and other links
 links:
   email: rishabh.iyer@utdallas.edu
-  google-scholar: Rishabh Iyer
+  google-scholar: l_XxJ1kAAAAJ
   github: caraml-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  twitter: caraml_lab
 
 # automatic citations
 auto-cite:

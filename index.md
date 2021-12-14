@@ -5,9 +5,8 @@ title: Home
 
 CARAML Lab is a research group at the [University of Texas at Dallas, Department of Computer Science](http://cs.utdallas.edu/) led by [Prof. Rishabh Iyer](https://sites.google.com/view/rishabhiyer/home). We are interested in developing efficient, fair, robust, and scalable machine learning algorithms by leveraging theoretical and algorithmic insights from various fields such as combinatorial optimization and subset selection, information theory, continuous, and bi-level optimization.
 
+{% include section.html %}
 # Recent News
-
-{% include search-info.html %}
 
 - Two papers from CARAML lab **are accepted at AAAI 2022!** Congrats Krishnateja and Suraj!
 
@@ -51,7 +50,7 @@ CARAML Lab is a research group at the [University of Texas at Dallas, Department
 
 {% include section.html %}
 
-<a class="twitter-timeline" href="https://twitter.com/caraml_lab?ref_src=twsrc%5Etfw">Tweets by caraml_lab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/caraml_lab?ref_src=twsrc%5Etfw">Tweets by caraml_lab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {:.center}
 <a href="https://twitter.com/caraml_lab?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @caraml_lab</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <a href="https://twitter.com/intent/tweet?screen_name=caraml_lab&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @caraml_lab</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

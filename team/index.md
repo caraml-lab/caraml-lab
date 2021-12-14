@@ -61,7 +61,98 @@ Currently, we are seeking highly motivated students with a broad interest in mac
 {:.center}
 
 {% include section.html %}
+## Alumni
 
+- Independent Study Students at UT Dallas (one semester of research supervised by me)
+
+  - Ayush Dobhal, Jiten Girdhar, Savan Visalpara
+
+- M.Tech Students at IIT Bombay (Co-supervised with Ganesh Ramakrishnan)
+
+  - Sandeep Subramanian, Sukalyan Bhakat, Abhishek Rathore, Jatin Mittal, Narsimha Raju 
+
+- Former Interns
+
+  - Khoshrav Doctor, Pratik Dubal, Rohan Mahadev, Vivswan Shitole, David Golub, John Moore
+
+{% include section.html %}
+## Collaborations (Active)
+
+- Sriraam Natarajan (UT Dallas)
+
+- Feng Chen (UT Dallas)
+
+- Murat Kantarcioglu (UT Dallas)
+
+- Ganesh Ramakrishnan (IIT Bombay)
+
+- Abir De (IIT Bombay)
+
+- Himanshu Asanani (TIFR, Bombay)
+
+- Sumit Shekhar (Adobe)
+
+- Pradeep Shenoy (Google)
+
+- Gaurav Aggarwal (Google)
+
+- Ashish Tendulkar (Google)
+
+- Lucian Popa (IBM)
+
+- Marina Danilevsky (IBM)
+
+- Baharan Mirzasoleiman (UCLA)
+
+- Jeff Bilmes (University of Washington, Seattle)
+
+- John Halloran (UC Davis)
+
+- Matthai Philipose (Microsoft Research)
+
+{% include section.html %}
+## Collaborations (Past)
+
+- Stefanie Jegelka (Massachusetts Institute of Technology)
+
+- Kai Wei (Microsoft)
+
+- Sebastian Tschiatchek (University of Vienna)
+
+- Max Chickering (Microsoft Research)
+
+- Joel Pfeiffer (Microsoft)
+
+- Denis Charles (Microsoft)
+
+- Eren Manavoglu (Microsoft)
+
+- Chris Meek (Microsoft Research)
+
+- Yoshinobu Kawahara (Osaka University)
+
+- Subhasis Chaudhuri (IIT Bombay)
+
+- Jennifer Gillenwater (Google)
+
+- Shengjei Wang (University of Washington)
+
+- Wenruo Bai (University of Washington)
+
+- Rahul Kidimbi (University of Washington)
+
+- Chandrashekhar Lavania (University of Washington)
+
+- Bethany Lusch (Argonne National Laboratory)
+
+- Yuzong Liu (Amazon)
+
+- Katrin Kirchoff (Amazon)
+
+- Ronak Shah (Microsoft)
+
+
+{% include section.html %}
 ## Funding
 
 Our work is made possible by funding from several organizations.

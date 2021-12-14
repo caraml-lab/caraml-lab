@@ -23,11 +23,11 @@ CARAML Lab is a research group at the [University of Texas at Dallas, Department
   link="https://github.com/caraml-lab/caraml-lab/wiki"
   style="button"
 %} -->
-{:.center}
+<!-- {:.center}
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner1.jpg" %}
+{% include banner.html image="images/banner1.jpg" %} -->
 
 {% include section.html %}
 

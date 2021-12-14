@@ -84,7 +84,7 @@ youtube:
   icon: fab fa-youtube
   text: YouTube
   tooltip: YouTube
-  link: https://youtube.com/$LINK
+  link: https://youtube.com/channel/$LINK
 
 linkedin:
   icon: fab fa-linkedin

@@ -7,6 +7,8 @@ CARAML Lab is a research group at the [University of Texas at Dallas, Department
 
 # Recent News
 
+{% include search-info.html %}
+
 - Two papers from CARAML lab **are accepted at AAAI 2022!** Congrats Krishnateja and Suraj!
 
 - Our work on Submodular Information Measures was accepted to **Transactions of Information Theory Journal**.
@@ -46,6 +48,8 @@ CARAML Lab is a research group at the [University of Texas at Dallas, Department
 - Our paper on [Data Subset Selection (GLISTER)](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fpdf%2F2012.10630.pdf&sa=D&sntz=1&usg=AFQjCNFtvK_XBpAWIgDexiKPesoAIaRh5w) is **accepted to AAAI 2021!** Congrats Krishnateja and Durga!
 
 - Prof. Rishabh Iyer gave an Invited Talk in the Special Session [Deep Learning and Information Theory](https://www.google.com/url?q=https%3A%2F%2Fece.iisc.ac.in%2F~spcom%2F2020%2Fss_dl_it.html%23WIE3&sa=D&sntz=1&usg=AFQjCNEETmHfq5Wa5R36QI8yLQ7HP9P8EA) at SPCOM 2020 (Virtual)
+
+{% include section.html %}
 
 <a class="twitter-timeline" href="https://twitter.com/caraml_lab?ref_src=twsrc%5Etfw">Tweets by caraml_lab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {:.center}

@@ -12,8 +12,6 @@ CARAML Lab is a research group at the [University of Texas at Dallas, Department
 
 - Our work on Submodular Information Measures was accepted to **Transactions of Information Theory Journal**.
 
-- Prof. Rishabh Iyer received the **Outstanding Reviewer Award** from NeurIPS 2021! (He received the same award in 2020 as well). 
-
 - Prof. Rishabh Iyer is be giving a **tutorial at AAAI 2022** on [Subset Selection in Machine Learning: Theory, Applications, and Hands-on](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fview%2Fsubsetmlaaai22tutorial%2Fhome&sa=D&sntz=1&usg=AFQjCNE-0xFEW9j1SSGllVhb2MuATRixqQ). Stay tuned for more updates!
 
 - Three papers from CARAML lab **are accepted at NeurIPS 2021!** Congrats Krishnateja, Ping, Nathan, and Suraj!

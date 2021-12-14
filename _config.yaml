@@ -41,11 +41,11 @@ defaults:
       type: "members"
     values:
       layout: member
-  # markdown files in /_posts
-  - scope:
-      type: "posts"
-    values:
-      layout: post
+  # # markdown files in /_posts
+  # - scope:
+  #     type: "posts"
+  #   values:
+  #     layout: post/
   # markdown files in /_works
   - scope:
       type: "works"

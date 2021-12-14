@@ -7,8 +7,9 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Computer Science](https://cs.utdallas.edu/) at [The University of Texas at Dallas](https://www.utdallas.edu/). Our lab is located in the [ECSS building](https://engineering.utdallas.edu/), and the room number is 3.413.
+Our lab is part of the [Department of Computer Science](https://cs.utdallas.edu/) at [The University of Texas at Dallas](https://www.utdallas.edu/). Our lab is located in the [ECSS building](https://engineering.utdallas.edu/), room number 3.413.
 
+{:.center}
 {%
   include link.html
   type="email"

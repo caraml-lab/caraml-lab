@@ -1,35 +1,11 @@
 ---
 title: Home
 ---
-
 # LEVERAGING ADVANCES IN OPTIMIZATION FOR ENABLING EFFICIENT, ROBUST, AND SCALABLE MACHINE LEARNING
 
 CARAML Lab is a research group at the [University of Texas at Dallas, Department of Computer Science](http://cs.utdallas.edu/) led by [Prof. Rishabh Iyer](https://sites.google.com/view/rishabhiyer/home). We are interested in developing efficient, fair, robust, and scalable machine learning algorithms by leveraging theoretical and algorithmic insights from various fields such as combinatorial optimization and subset selection, information theory, continuous, and bi-level optimization.
 
-<!-- {%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="caraml-lab/caraml-lab"
-  style="button"
-%}
-
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/caraml-lab/caraml-lab/wiki"
-  style="button"
-%} -->
-<!-- {:.center}
-
-{% include section.html full=true %}
-
-{% include banner.html image="images/banner1.jpg" %} -->
-
-{% include section.html %}
+{% include section.html dark=true%}
 
 # News
 - Two papers from CARAML lab **are accepted at AAAI 2022!** Congrats Krishnateja and Suraj!

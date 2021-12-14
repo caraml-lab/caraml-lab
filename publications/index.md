@@ -64,7 +64,7 @@ Krishnateja Killamsetty, Xujiang Zhou, Feng Chen, and Rishabh Iyer, **[RETRIEVE:
 
 Ping Zhang, Rishabh K Iyer, Ashish V. Tendulkar, Gaurav Aggarwal, Abir De, **[Learning to Select Exogenous Events for Marked Temporal Point Process](https://papers.nips.cc/paper/2021/file/032abcd424b4312e7087f434ef1c0094-Paper.pdf)**, To Appear In Neural Information Processing Systems, NeurIPS 2021. (26% Acceptance Rate)
 
-Durga Sivasubramanian, Rishabh Iyer, Ganesh Ramakrishnan, and Abir De, **[Training Data Subset Selection for Regression with Controlled Validation Error](https://papers.nips.cc/paper/2021/file/032abcd424b4312e7087f434ef1c0094-Paper.pdf)**, To Appear In Neural Information Processing Systems, NeurIPS 2021
+Durga Sivasubramanian, Rishabh Iyer, Ganesh Ramakrishnan, and Abir De, **[Training Data Subset Selection for Regression with Controlled Validation Error](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fpdf%2F2106.12491.pdf&sa=D&sntz=1&usg=AFQjCNFGyGpi1c3_5asLK_i2XQxjmvPOUg)**, The Thirty-eighth International Conference on Machine Learning, ICML 2021 (21% Acceptance Rate) [Project Page](https://www.google.com/url?q=https%3A%2F%2Fabir-de.github.io%2Fprojects%2Fselcon%2Fselcon.html&sa=D&sntz=1&usg=AFQjCNGbAHUAkqmALPcHOzJjKYDj4REh7A)
 
 Durga Sivasubramanian, Rishabh Iyer, Ganesh Ramakrishnan, and Abir De.**[“Semi-Supervised Data Programming with Subset Selection”](https://doi.org/10.18653/v1/2021.findings-acl.408).** In Findings of the Association for Computational Linguistics: ACL/IJCNLP 2021, Online Event, August 1-6, 2021, ACL/IJCNLP 2021:4640–4651. Findings of ACL. Association for Computational Linguistics, 2021. (Long paper)
 

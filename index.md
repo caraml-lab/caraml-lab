@@ -3,7 +3,7 @@ title: Home
 ---
 # LEVERAGING ADVANCES IN OPTIMIZATION FOR ENABLING EFFICIENT, ROBUST, AND SCALABLE MACHINE LEARNING
 
-CARAML Lab is a research group at the [University of Texas at Dallas, Department of Computer Science](http://cs.utdallas.edu/) led by [Prof. Rishabh Iyer](https://sites.google.com/view/rishabhiyer/home). We are interested in developing efficient, fair, robust, and scalable machine learning algorithms by leveraging theoretical and algorithmic insights from various fields such as combinatorial optimization and subset selection, information theory, continuous, and bi-level optimization.
+CARAML Lab is a research group at the [University of Texas at Dallas, Department of Computer Science](http://cs.utdallas.edu/) led by [Prof. Rishabh Iyer](https://sites.google.com/view/rishabhiyer/home). We are interested in developing efficient, fair, robust, and scalable machine learning algorithms by leveraging theoretical and algorithmic insights from various fields such as combinatorial optimization and subset selection, information theory, continuous, and bi-level optimization. Some of the applications include: making deep model training and inference 5x to 10x faster using subset selection, label-efficient deep learning via active learning and semi-supervised learning, robust deep learning specifically with label noise, imbalance, distribution shift, and out-of-distribution data, fair learning to data biases, and personalized machine learning. Some of our recent theoretical focus areas are: submodularity and combinatorial optimization, submodular information measures (like the submodular mutual information and conditional gain measures), coresets, and bi-level optimization.
 
 {% include section.html dark=true%}
 # Recent News

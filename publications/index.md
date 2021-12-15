@@ -109,7 +109,7 @@ Kai Wei, Rishabh Iyer, Jeff Bilmes, **[Submodularity in data subset selection an
 
 Sebastian Tschiatschek, Rishabh K Iyer, Haochen Wei, Jeff A Bilmes, **[Learning mixtures of submodular functions for image collection summarization](https://proceedings.neurips.cc/paper/2014/hash/a8e864d04c95572d1aece099af852d0a-Abstract.html)**,  In Advances in Neural Information Processing Systems (NIPS) 2014
 
-Rishabh Iyer and Jeff Bilmes, **[Submodular optimization with submodular cover and submodular knapsack constraints](https://proceedings.neurips.cc/paper/2013/hash/a1d50185e7426cbb0acad1e6ca74b9aa-Abstract.html)**, In Advances Neural Information Processing Systems 2013 (**Winner of the Outstanding Paper Award**) Link to Video, from 56th Minute.
+Rishabh Iyer and Jeff Bilmes, **[Submodular optimization with submodular cover and submodular knapsack constraints](https://proceedings.neurips.cc/paper/2013/hash/a1d50185e7426cbb0acad1e6ca74b9aa-Abstract.html)**, In Advances Neural Information Processing Systems 2013 (**Winner of the Outstanding Paper Award**) 
 
 Rishabh Iyer, Stefanie Jegelka, Jeff Bilmes, **[Fast semidifferential-based submodular function optimization](http://proceedings.mlr.press/v28/iyer13.pdf)**, International Conference on Machine Learning (ICML) 2013 (**Winner of the Best Paper Award**)
 

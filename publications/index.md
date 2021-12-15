@@ -50,7 +50,7 @@ Suraj Kothawade, Jiten Girdhar, Chandrashekar Lavania, and Rishabh Iyer. **[“D
 
 MS Ozdayi, M Kantarcioglu, R Iyer. **[“BiFair: Training Fair Models with Bilevel Optimization”](https://arxiv.org/abs/2106.04757).** arXiv:2106.04757.
 
-## Peer-Reviewed Publications (Conferences & Journals)
+## Conferences & Journals Publications (Since 2019)
 ------------------------------------------------------
 Suraj Kothawade, Vishal Kaushal, Ganesh Ramakrishnan, Jeff Bilmes, Rishabh Iyer. **[“PRISM: A Rich Class of Parameterized Submodular Information Measures for Guided Data Subset Selection”](https://arxiv.org/abs/2103.00128).** To Appear in the Thirty-Sixth AAAI Conference on Artificial Intelligence, AAAI 2022. (15% Acceptance Rate)
 
@@ -76,12 +76,11 @@ Atul Sahay, Anshul Nasery, Ayush Maheshwari, Ganesh Ramakrishnan, and Rishabh Iy
 
 Chandrashekhar Lavania, Kai Wei, Rishabh Iyer, and Jeff Bilmes, **[A Practical Online Framework with a Fixed Memory Budget for Extracting Running Video Summaries](https://people.ece.uw.edu/bilmes/p/mypubs/lavania-videosum-sdm-2021.pdf)**, SIAM International Conference on Data Mining, SDM 2021. (21.25% Acceptance Rate)  **[Video Demo of the System in Action](https://www.youtube.com/watch?v=lTzLWGcb8Mg)**
 
-
 Himanshu Asnani, Jeff Bilmes, and Rishabh Iyer, **[Independence Properties of Generalized Submodular Information Measures](https://arxiv.org/pdf/2108.03154.pdf)**, 2021 IEEE International Symposium on Information Theory, ISIT 2021
 
 Rishabh Iyer, Ninad Khargonkar, Jeff Bilmes, and Himanshu Asnani, **[Submodular Combinatorial Information Measures with Applications in Machine Learning](https://arxiv.org/pdf/2006.15412.pdf)**, The 32nd International Conference on Algorithmic Learning Theory, ALT 2021 (29.2% Acceptance Rate).**[Related Video](https://www.youtube.com/watch?v=m4pw2EPURpE&t=5s)**
 
-Srijita Das, Rishabh Iyer, Sriraam Natarajan, **[A Clustering based Selection Framework for  Cost Aware and Test-time Feature Elicitation](https://arxiv.org/pdf/2105.10193.pdf)**, In CODS-COMAD 2021 (Honorable Mention, Research Track)
+Srijita Das, Rishabh Iyer, Sriraam Natarajan, **[A Clustering based Selection Framework for  Cost Aware and Test-time Feature Elicitation](https://arxiv.org/pdf/2105.10193.pdf)**, In CODS-COMAD 2021 (**Honorable Mention, Research Track**)
 
 Rishabh Iyer and Jeff Bilmes, **[Concave Aspects of Submodular Functions](https://arxiv.org/pdf/2105.10193.pdf)**, In IEEE International Symposium on Information Theory, ISIT 2020. (Longer version of this paper: **[Polyhedral aspects of submodularity, convexity and concavity](https://arxiv.org/abs/1506.07329)**, arXiv preprint arXiv:1506.07329) 
 
@@ -97,9 +96,39 @@ Vishal Kaushal, Rishabh Iyer, Suraj Kothawade, Rohan Mahadev, Khoshrav Doctor, a
  
 Vishal Kaushal, Rishabh Iyer, Khoshrav Doctor, Anurag Sahoo, Pratik Dubal, Suraj Kothawade, Rohan Mahadev, Kunal Dargan, Ganesh Ramkrishnan, **[Demystifying Multi-Faceted Video Summarization: Tradeoff Between Diversity,Representation, Coverage and Importance](https://www.cse.iitb.ac.in/~ganesh/papers/wacv2019c.pdf)**, 7th IEEE Winter Conference on Applications of Computer Vision (WACV), 2019 Hawaii, USA. **[Link to Video](https://drive.google.com/open?id=1RGuFqCtR0QPpRrsQvvfn4-2hSbkvVzIJ)** 
 
-<!-- ## Software
------------ -->
-<!-- Krishnateja Killamsetty, Dheeraj N Bhat, Rishabh Iyer. **[“CORDS: COResets and Data Subset selection”](https://github.com/decile-team/cords).** GitHub repository. GitHub, 2021. -->
+## Selected Older Publications 
+Yuzong Liu, Rishabh Iyer, Katrin Kirchhoff, Jeff Bilmes, **[SVitchboard-II and FiSVer-I: Crafting high quality and low complexity conversational english speech corpora using submodular function optimization](https://www.sciencedirect.com/science/article/abs/pii/S0885230816301942)**,  Computer Speech & Language 42, 122-142, 2017 (Conference version of this paper appeared in INTERSPEECVH 2015)
+
+Wenruo Bai, Rishabh Iyer, Kai Wei, Jeff Bilmes, **[Algorithms for optimizing the ratio of submodular functions](http://proceedings.mlr.press/v48/baib16.pdf)**,  In Proc. International Conference on Machine Learning( ICML) 2016
+
+Kai Wei, Rishabh Iyer, Shenjie Wang, Wenruo Bai, Jeff Bilmes, **[Mixed robust/average submodular partitioning: Fast algorithms, guarantees, and applications](https://proceedings.neurips.cc/paper/2015/hash/dc960c46c38bd16e953d97cdeefdbc68-Abstract.html)**, In Advances of Neural Information Processing Systems (NIPS) 2015
+
+Jennifer A Gillenwater, Rishabh K Iyer, Bethany Lusch, Rahul Kidambi, Jeff A Bilmes, **[Submodular hamming metrics](https://proceedings.neurips.cc/paper/2015/hash/ba1b3eba322eab5d895aa3023fe78b9c-Abstract.html)**, In Advances in Neural Information Processing Systems 2015
+
+Kai Wei, Rishabh Iyer, Jeff Bilmes, **[Submodularity in data subset selection and active learning](http://proceedings.mlr.press/v37/wei15.pdf)**, International Conference on Machine Learning (ICML) 2015
+
+Sebastian Tschiatschek, Rishabh K Iyer, Haochen Wei, Jeff A Bilmes, **[Learning mixtures of submodular functions for image collection summarization](https://proceedings.neurips.cc/paper/2014/hash/a8e864d04c95572d1aece099af852d0a-Abstract.html)**,  In Advances in Neural Information Processing Systems (NIPS) 2014
+
+Rishabh Iyer and Jeff Bilmes, **[Submodular optimization with submodular cover and submodular knapsack constraints](https://proceedings.neurips.cc/paper/2013/hash/a1d50185e7426cbb0acad1e6ca74b9aa-Abstract.html)**, In Advances Neural Information Processing Systems 2013 (**Winner of the Outstanding Paper Award**) Link to Video, from 56th Minute.
+
+Rishabh Iyer, Stefanie Jegelka, Jeff Bilmes, **[Fast semidifferential-based submodular function optimization](http://proceedings.mlr.press/v28/iyer13.pdf)**, International Conference on Machine Learning (ICML) 2013 (**Winner of the Best Paper Award**)
+
+Rishabh Iyer, Jeff A Bilmes, **[Submodular-Bregman and the Lovász-Bregman divergences with applications](https://proceedings.neurips.cc/paper/2012/file/dba1cdfcf6359389d170caadb3223ad2-Paper.pdf)**, In Advances in Neural Information Processing Systems 2012
+
+Rishabh Iyer, Jeff Bilmes, **[Algorithms for approximate minimization of the difference between submodular functions, with applications](https://arxiv.org/abs/1207.0560)**, Uncertainty in Artificial Intelligence (UAI) 2012
+
+
+## Software
+**[“CORDS: Coresets and Data Subset selection”](https://github.com/decile-team/cords).** GitHub repository. GitHub, 2021.
+
+**[“DISTIL: Deep Diversified inter-active Learning”](https://github.com/decile-team/distil).** GitHub repository. GitHub, 2021.
+
+**[“SubmodLib: Library for Submodular Optimization”](https://github.com/decile-team/submodlib).** GitHub repository. GitHub, 2021.
+
+**[“SPEAR: Semi Superrvised Data Programming”](https://github.com/decile-team/submodlib).** GitHub repository. GitHub, 2021.
+
+**[“SPEAR: Semi Superrvised Data Programming”](https://github.com/decile-team/submodlib).** GitHub repository. GitHub, 2021.
+
 
 ## Workshop Papers
 ------------------

@@ -119,15 +119,15 @@ Rishabh Iyer, Jeff Bilmes, **[Algorithms for approximate minimization of the dif
 
 
 ## Software
-**[“CORDS: Coresets and Data Subset selection”](https://github.com/decile-team/cords).** GitHub repository. GitHub, 2021.
+**[“CORDS: Coresets and Data Subset selection”](https://github.com/decile-team/cords).** 
 
-**[“DISTIL: Deep Diversified inter-active Learning”](https://github.com/decile-team/distil).** GitHub repository. GitHub, 2021.
+**[“DISTIL: Deep Diversified inter-active Learning”](https://github.com/decile-team/distil).** 
 
-**[“SubmodLib: Library for Submodular Optimization”](https://github.com/decile-team/submodlib).** GitHub repository. GitHub, 2021.
+**[“SubmodLib: Library for Submodular Optimization”](https://github.com/decile-team/submodlib).** 
 
-**[“SPEAR: Semi Superrvised Data Programming”](https://github.com/decile-team/submodlib).** GitHub repository. GitHub, 2021.
+**[“SPEAR: Semi Supervised Data Programming”](https://github.com/decile-team/spear).** 
 
-**[“SPEAR: Semi Superrvised Data Programming”](https://github.com/decile-team/submodlib).** GitHub repository. GitHub, 2021.
+**[“TRUST: Targeted Subset Seleciton”](https://github.com/decile-team/trust).** 
 
 
 ## Workshop Papers

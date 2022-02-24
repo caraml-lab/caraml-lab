@@ -33,9 +33,6 @@ For a complete list of publications from our lab, please visit the following [Go
   
 ## Pre-Prints
 -------------
-
-Ayush Maheshwari\*, Krishnateja Killamsetty\*, Ganesh Ramakrishnan, Rishabh Iyer, Marina Danilevsky, Lucian Popa. **[“Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming”](http://arxiv.org/abs/2109.11410).** arXiv [cs.LG], 2021. arXiv:2109.11410.
-
 Suraj Kothawade, Saikat Ghosh, Sumit Shekhar, Yu Xiang, Rishabh Iyer. **[“TALISMAN: Targeted Active Learning for Object Detection with Rare Classes and Slices using Submodular Mutual Information”](https://arxiv.org/abs/2112.00166).** arXiv:2112.00166.
 
 Mayank Kothyari, Anmol Reddy Mekala, Rishabh Iyer, Ganesh Ramakrishnan, and Preethi Jyothi. **[“Personalizing ASR with Limited Data Using Targeted Subset Selection”](https://arxiv.org/abs/2110.04908).** arXiv:2110.04908.
@@ -52,6 +49,8 @@ MS Ozdayi, M Kantarcioglu, R Iyer. **[“BiFair: Training Fair Models with Bilev
 
 ## Conferences & Journals Publications (Since 2019)
 ------------------------------------------------------
+Ayush Maheshwari\*, Krishnateja Killamsetty\*, Ganesh Ramakrishnan, Rishabh Iyer, Marina Danilevsky, Lucian Popa. **[“Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming”](http://arxiv.org/abs/2109.11410).** To Appear in In Findings of the Association for Computational Linguistics: ACL/IJCNLP 2022. Findings of ACL. Association for Computational Linguistics, 2021. (Long paper)
+
 Suraj Kothawade, Vishal Kaushal, Ganesh Ramakrishnan, Jeff Bilmes, Rishabh Iyer. **[“PRISM: A Rich Class of Parameterized Submodular Information Measures for Guided Data Subset Selection”](https://arxiv.org/abs/2103.00128).** To Appear in the Thirty-Sixth AAAI Conference on Artificial Intelligence, AAAI 2022. (15% Acceptance Rate)
 
 Krishnateja Killamsetty\*, Changbin Li\*, Chen Zhao, Rishabh Iyer, Feng Chen. **[A Nested Bi-level Optimization Framework for Robust Few Shot Learning”](http://arxiv.org/abs/2011.06782).** To Appear in the Thirty-Sixth AAAI Conference on Artificial Intelligence, AAAI 2022. (15% Acceptance Rate)

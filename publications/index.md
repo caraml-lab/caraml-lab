@@ -49,7 +49,7 @@ MS Ozdayi, M Kantarcioglu, R Iyer. **[“BiFair: Training Fair Models with Bilev
 
 ## Conferences & Journals Publications (Since 2019)
 ------------------------------------------------------
-Ayush Maheshwari\*, Krishnateja Killamsetty\*, Ganesh Ramakrishnan, Rishabh Iyer, Marina Danilevsky, Lucian Popa. **[“Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming”](http://arxiv.org/abs/2109.11410).** To Appear in In Findings of the Association for Computational Linguistics: ACL/IJCNLP 2022. Findings of ACL. Association for Computational Linguistics, 2022. (Long paper)
+Ayush Maheshwari\*, Krishnateja Killamsetty\*, Ganesh Ramakrishnan, Rishabh Iyer, Marina Danilevsky, Lucian Popa. **[“Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming”](http://arxiv.org/abs/2109.11410).** To Appear in Findings of the Association for Computational Linguistics: ACL 2022. (Long paper)
 
 Suraj Kothawade, Vishal Kaushal, Ganesh Ramakrishnan, Jeff Bilmes, Rishabh Iyer. **[“PRISM: A Rich Class of Parameterized Submodular Information Measures for Guided Data Subset Selection”](https://arxiv.org/abs/2103.00128).** To Appear in the Thirty-Sixth AAAI Conference on Artificial Intelligence, AAAI 2022. (15% Acceptance Rate)
 

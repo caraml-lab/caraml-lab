@@ -9,6 +9,8 @@ Specificaly, we are interested in making deep model training and inference 5x to
 
 {% include section.html dark=true%}
 # Recent News
+- One paper form CARAML lab **got accepted at CVPR2022!** Congrats Krishnateja!
+
 - One paper from CARAML lab **got accepted at Findings of ACL 2022!** Congrats Krishnateja!
 
 - Two papers from CARAML lab **are accepted at AAAI 2022!** Congrats Krishnateja and Suraj!

@@ -47,7 +47,7 @@ MS Ozdayi, M Kantarcioglu, R Iyer. **[“BiFair: Training Fair Models with Bilev
 
 ## Conferences & Journals Publications (Since 2019)
 ------------------------------------------------------
-Rishabh Tiwari, Krishnateja Killamsetty, Rishabh Iyer, Pradeep Shenoy, **[“GCR: Gradient Coreset based Replay Buffer Selection for Continual Learning”]**(https://arxiv.org/abs/2111.11210). To Appear in Conference on Computer Vision and Pattern Recognition, CVPR 2022.
+Rishabh Tiwari, Krishnateja Killamsetty, Rishabh Iyer, Pradeep Shenoy, **[“GCR: Gradient Coreset based Replay Buffer Selection for Continual Learning”](https://arxiv.org/abs/2111.11210)**. To Appear in Conference on Computer Vision and Pattern Recognition, CVPR 2022.
 
 Ayush Maheshwari\*, Krishnateja Killamsetty\*, Ganesh Ramakrishnan, Rishabh Iyer, Marina Danilevsky, Lucian Popa. **[“Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming”](http://arxiv.org/abs/2109.11410).** To Appear in Findings of the Association for Computational Linguistics: ACL 2022. (Long paper)
 

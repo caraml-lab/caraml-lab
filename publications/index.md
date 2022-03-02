@@ -39,8 +39,6 @@ Mayank Kothyari, Anmol Reddy Mekala, Rishabh Iyer, Ganesh Ramakrishnan, and Pree
 
 Nathan Beck, Durga Sivasubramanian, Apurva Dani, Ganesh Ramakrishnan, and Rishabh Iyer. **[“Effective Evaluation of Deep Active Learning on Image Classification Tasks”](https://arxiv.org/abs/2106.15324).** arXiv:2106.15324.
 
-Rishabh Tiwari, Krishnateja Killamsetty, Rishabh Iyer, Pradeep Shenoy, **[“GCR: Gradient Coreset based Replay Buffer Selection for Continual Learning”](https://arxiv.org/pdf/2111.11210.pdf).** arXiv:2111.11210.
-
 Xujiang Zhao\*, Killamsetty Krishnateja\*, Rishabh Iyer, Feng Chen. **[“Robust Semi-Supervised Learning with Out of Distribution Data”](http://arxiv.org/abs/2010.03658).** arXiv [cs.LG], 2021. arXiv:2010.03658.
 
 Suraj Kothawade, Jiten Girdhar, Chandrashekar Lavania, and Rishabh Iyer. **[“Deep Submodular Networks for Extractive Data Summarization”](https://arxiv.org/abs/2010.08593).** arXiv:2010.08593.
@@ -49,6 +47,8 @@ MS Ozdayi, M Kantarcioglu, R Iyer. **[“BiFair: Training Fair Models with Bilev
 
 ## Conferences & Journals Publications (Since 2019)
 ------------------------------------------------------
+Rishabh Tiwari, Krishnateja Killamsetty, Rishabh Iyer, Pradeep Shenoy, [“GCR: Gradient Coreset based Replay Buffer Selection for Continual Learning”](https://arxiv.org/abs/2111.11210). To Appear in Conference on Computer Vision and Pattern Recognition, CVPR 2022.
+
 Ayush Maheshwari\*, Krishnateja Killamsetty\*, Ganesh Ramakrishnan, Rishabh Iyer, Marina Danilevsky, Lucian Popa. **[“Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming”](http://arxiv.org/abs/2109.11410).** To Appear in Findings of the Association for Computational Linguistics: ACL 2022. (Long paper)
 
 Suraj Kothawade, Vishal Kaushal, Ganesh Ramakrishnan, Jeff Bilmes, Rishabh Iyer. **[“PRISM: A Rich Class of Parameterized Submodular Information Measures for Guided Data Subset Selection”](https://arxiv.org/abs/2103.00128).** To Appear in the Thirty-Sixth AAAI Conference on Artificial Intelligence, AAAI 2022. (15% Acceptance Rate)

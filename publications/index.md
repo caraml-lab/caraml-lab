@@ -33,7 +33,8 @@ For a complete list of publications from our lab, please visit the following [Go
   
 ## Pre-Prints
 -------------
-Suraj Kothawade, Saikat Ghosh, Sumit Shekhar, Yu Xiang, Rishabh Iyer. **[“TALISMAN: Targeted Active Learning for Object Detection with Rare Classes and Slices using Submodular Mutual Information”](https://arxiv.org/abs/2112.00166).** arXiv:2112.00166.
+Suraj Kothawade, Shivang Chopra, Saikat Ghosh, and Rishabh Iyer. **[“Active Data Discovery: Mining Unknown Data using
+Submodular Information Measures”](https://arxiv.org/abs/2206.08566).** arXiv:2206.08566.
 
 Mayank Kothyari, Anmol Reddy Mekala, Rishabh Iyer, Ganesh Ramakrishnan, and Preethi Jyothi. **[“Personalizing ASR with Limited Data Using Targeted Subset Selection”](https://arxiv.org/abs/2110.04908).** arXiv:2110.04908.
 
@@ -47,6 +48,12 @@ MS Ozdayi, M Kantarcioglu, R Iyer. **[“BiFair: Training Fair Models with Bilev
 
 ## Conferences & Journals Publications (Since 2019)
 ------------------------------------------------------
+Suraj Kothawade, Saikat Ghosh, Sumit Shekhar, Yu Xiang, Rishabh Iyer. **[“TALISMAN: Targeted Active Learning for Object Detection with Rare Classes and Slices using Submodular Mutual Information”](https://arxiv.org/abs/2112.00166).** To appear at the European Conference
+on Computer Vision, ECCV 2022.
+
+Changbin Li\*, Suraj Kothawade\*, Feng Chen, Rishabh Iyer. **[“PLATINUM: Semi-Supervised Model Agnostic Meta-Learning
+using Submodular Mutual Information”](https://arxiv.org/abs/2201.12928).**  To appear at The Thirty-ninth International Conference on Machine Learning , ICML 2022.
+
 Rishabh Tiwari, Krishnateja Killamsetty, Rishabh Iyer, Pradeep Shenoy, **[“GCR: Gradient Coreset based Replay Buffer Selection for Continual Learning”](https://arxiv.org/abs/2111.11210)**. To Appear in Conference on Computer Vision and Pattern Recognition, CVPR 2022.
 
 Ayush Maheshwari\*, Krishnateja Killamsetty\*, Ganesh Ramakrishnan, Rishabh Iyer, Marina Danilevsky, Lucian Popa. **[“Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming”](http://arxiv.org/abs/2109.11410).** To Appear in Findings of the Association for Computational Linguistics: ACL 2022. (Long paper)
@@ -131,6 +138,9 @@ Rishabh Iyer, Jeff Bilmes, **[Algorithms for approximate minimization of the dif
 
 ## Workshop Papers
 ------------------
+Suraj Kothawade, Shivang Chopra, Saikat Ghosh, and Rishabh Iyer. **[“Active Data Discovery: Mining Unknown Data using
+Submodular Information Measures”](https://arxiv.org/abs/2206.08566).** In ReALML, ICML 2022, Adaptive Experimental Design and Active Learning in the Real World.
+
 Suraj Kothawade, Lakshman Tamil, Rishabh Iyer. **[Targeted Active Learning using Submodular Mutual Information for Imbalanced Medical Image Classification]().** Medical Imaging Meets NeurIPS 2021 Workshop in Conjunction with NeurIPS 2021
 
 Krishnateja Killamsetty\*, Changbin Li\*, Chen Zhao, Rishabh Iyer, Feng Chen. **[A Nested Bi-level Optimization Framework for Robust Few Shot Learning](https://openreview.net/forum?id=OtokjoNoFu5).** Fifth Workshop on Meta-Learning at the Conference on Neural Information Processing Systems, In Conjunction with NeurIPS 2021

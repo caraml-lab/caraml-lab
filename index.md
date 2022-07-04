@@ -9,6 +9,11 @@ Specificaly, we are interested in making deep model training and inference 5x to
 
 {% include section.html dark=true%}
 # Recent News
+- One paper form CARAML lab **got accepted at ECCV2022!** Congrats Suraj and Saikat!
+- One paper form CARAML lab **got accepted at ICML2022!** Congrats Suraj!
+- Our [demonstration](https://iv2022.com/sponsoring/vehicles-for-the-demonstration-day) was accepted at the IEEE Intelligient Vehicles Symposium, IV 2022.
+- Suraj received the prestigious **Jan Van der Ziel Fellowship** at UT Dallas!
+- Suraj's dissertation was awarded the runner-up at the **3-Minute-Thesis (3MT) competition** hosted by UT Dallas! 
 - One paper form CARAML lab **got accepted at CVPR2022!** Congrats Krishnateja!
 
 - One paper from CARAML lab **got accepted at Findings of ACL 2022!** Congrats Krishnateja!

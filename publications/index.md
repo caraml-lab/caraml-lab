@@ -40,14 +40,14 @@ Mayank Kothyari, Anmol Reddy Mekala, Rishabh Iyer, Ganesh Ramakrishnan, and Pree
 
 Nathan Beck, Durga Sivasubramanian, Apurva Dani, Ganesh Ramakrishnan, and Rishabh Iyer. **[“Effective Evaluation of Deep Active Learning on Image Classification Tasks”](https://arxiv.org/abs/2106.15324).** arXiv:2106.15324.
 
-Xujiang Zhao\*, Killamsetty Krishnateja\*, Rishabh Iyer, Feng Chen. **[“Robust Semi-Supervised Learning with Out of Distribution Data”](http://arxiv.org/abs/2010.03658).** arXiv [cs.LG], 2021. arXiv:2010.03658.
-
 Suraj Kothawade, Jiten Girdhar, Chandrashekar Lavania, and Rishabh Iyer. **[“Deep Submodular Networks for Extractive Data Summarization”](https://arxiv.org/abs/2010.08593).** arXiv:2010.08593.
 
 MS Ozdayi, M Kantarcioglu, R Iyer. **[“BiFair: Training Fair Models with Bilevel Optimization”](https://arxiv.org/abs/2106.04757).** arXiv:2106.04757.
 
 ## Conferences & Journals Publications (Since 2019)
 ------------------------------------------------------
+Xujiang Zhao\*, Killamsetty Krishnateja\*, Rishabh Iyer, Feng Chen. **[“How Out of Distribution Data Hurts Semi-Supervised Learning”](http://arxiv.org/abs/2010.03658).** To appear in IEEE International Conference on Data Mining, ICDM 2022. (9% Acceptance Rate)
+
 Suraj Kothawade, Saikat Ghosh, Sumit Shekhar, Yu Xiang, Rishabh Iyer. **[“TALISMAN: Targeted Active Learning for Object Detection with Rare Classes and Slices using Submodular Mutual Information”](https://arxiv.org/abs/2112.00166).** To appear at the European Conference
 on Computer Vision, ECCV 2022.
 

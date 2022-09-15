@@ -9,6 +9,8 @@ Specificaly, we are interested in making deep model training and inference 5x to
 
 {% include section.html dark=true%}
 # Recent News
+- Two papers from CARAML lab **got accepted at NeurIPS 2022!** Congrats Krishnateja!
+
 - One paper from CARAML lab **got accepted at ICDM 2022!** Congrats Krishnateja!
 
 - One paper from CARAML lab **got accepted at ECCV 2022!** Congrats Suraj and Saikat!

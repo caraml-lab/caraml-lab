@@ -9,7 +9,7 @@ aliases:
 
 links:
   home-page: https://krishnatejakillamsetty.me/
-  google-scholar: Es7o_GIAAAAJ
+  google-scholar: cHDE-2YAAAAJ
   email: krishnateja.killamsetty@utdallas.edu
   twitter: krishnatejakk
   github: krishnatejakk

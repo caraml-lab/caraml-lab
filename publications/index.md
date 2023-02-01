@@ -50,7 +50,7 @@ MS Ozdayi, M Kantarcioglu, R Iyer. **[“BiFair: Training Fair Models with Bilev
 ------------------------------------------------------
 Krishnateja Killamsetty, Guttu Sai Abhishek, Aakriti, Alexandre V. Evfimievski, Lucian Popa, Ganesh Ramakrishnan, Rishabh Iyer,  **["AUTOMATA: Gradient Based Data Subset Selection for Compute-Efficient Hyper-parameter Tuning"](https://arxiv.org/abs/2203.08212)**. In Neural Information Processing Systems, NeurIPS 2022. (25.6% Acceptance Rate)
 
-Athresh Karanam\*, Krishnateja Killamsetty\*, Harsha Kokel\*, Rishabh K Iyer. **["Orient: Submodular Mutual Information Measures for Data Subset Selection under Distribution Shift"]()**.
+Athresh Karanam\*, Krishnateja Killamsetty\*, Harsha Kokel\*, Rishabh K Iyer. **["Orient: Submodular Mutual Information Measures for Data Subset Selection under Distribution Shift"](https://openreview.net/forum?id=mhP6mHgrg1c)**.
  In Neural Information Processing Systems, NeurIPS 2022. (25.6% Acceptance Rate)
 
 Xujiang Zhao\*, Killamsetty Krishnateja\*, Rishabh Iyer, Feng Chen. **[“How Out of Distribution Data Hurts Semi-Supervised Learning”](http://arxiv.org/abs/2010.03658).** In IEEE International Conference on Data Mining, ICDM 2022. (9% Acceptance Rate)
@@ -145,6 +145,8 @@ Rishabh Iyer, Jeff Bilmes, **[Algorithms for approximate minimization of the dif
 
 ## Workshop Papers
 ------------------
+H S V N S Kowndinya Renduchintala, Krishnateja Killamsetty, Sumit Bhatia, Milan Aggarwal, Ganesh Ramakrishnan, Rishabh K Iyer, Balaji Krishnamurthy. **["Using Informative Data Subsets for Efficient Training of Large Language Models: An Initial Study"](https://neurips2022-enlsp.github.io/papers/paper_65.pdf)**. The Second Workshop on Efficient Natural Language and Speech Processing (ENLSP), In Conjunction with NeurIPS 2022.
+
 Suraj Kothawade, Shivang Chopra, Saikat Ghosh, and Rishabh Iyer. **[“Active Data Discovery: Mining Unknown Data using
 Submodular Information Measures”](https://arxiv.org/abs/2206.08566).** In ReALML, ICML 2022, Adaptive Experimental Design and Active Learning in the Real World.
 

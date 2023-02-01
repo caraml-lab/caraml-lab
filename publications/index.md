@@ -33,6 +33,8 @@ For a complete list of publications from our lab, please visit the following [Go
   
 ## Pre-Prints
 -------------
+Krishnateja Killamsetty, Alexandre V. Evfimievski, Tejaswini Pedapati, Kiran Kate, Lucian Popa, Rishabh Iyer.  **["MILO: Model-Agnostic Subset Selection Framework for Efficient Model Training and Tuning"](https://arxiv.org/abs/2301.13287)**. arXiv:2301.13287.
+
 Suraj Kothawade, Shivang Chopra, Saikat Ghosh, and Rishabh Iyer. **[“Active Data Discovery: Mining Unknown Data using
 Submodular Information Measures”](https://arxiv.org/abs/2206.08566).** arXiv:2206.08566.
 

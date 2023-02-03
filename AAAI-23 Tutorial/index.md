@@ -15,7 +15,6 @@ nav:
 <!-- # <i class="fa-duotone fa-location-dot"></i> The 37th AAAI Conference on Artificial Intelligence, Washington DC, USA -->
 <!-- # <i class="fa-duotone fa-calendar-clock"></i> February 23rd, 2023 08:30 AM EST - 12:30 PM EST -->
 {% include section.html %}
-[
 # Schedule
 
 <ol>
@@ -60,9 +59,9 @@ To contextualize the various subset selection problems and toolkits that will be
 
 ## Introduction
 
-_Overview of Data subset selection, Submodlib and Trust._
+Overview of Data subset selection, Submodlib and Trust._
 
-_ **SubModLib** _is an easy-to-use, efficient and scalable Python library for submodular optimization with a C++ optimization engine. _Submodlib_ finds its application in summarization, data subset selection, hyper parameter tuning, efficient training etc. Through a rich API, it offers a great deal of flexibility in the way it can be used. The SubModLib toolkit ia available at: [https://github.com/decile-team/submodlib](https://github.com/decile-team/submodlib)
+**SubModLib** is an easy-to-use, efficient and scalable Python library for submodular optimization with a C++ optimization engine. Submodlib finds its application in summarization, data subset selection, hyper parameter tuning, efficient training etc. Through a rich API, it offers a great deal of flexibility in the way it can be used. The SubModLib toolkit ia available at: [https://github.com/decile-team/submodlib](https://github.com/decile-team/submodlib)
 
 **TRUST** is a toolkit which provides support for various targeted selection algorithms. Most real-world datasets have one or more charateristics that make its use on the state-of-the-art subset selection algorithms very difficult. Quite often, these characteristics are either known or can be easily found out. For example, real-world data is imbalanced, redudant and has samples that are of not of concern to the task at hand. Hence, there is a need to favor some samples while ignore the others. This is possible via different Submodular Information Measures based algorithms implemented in TRUST. The TRUST toolkit ia available at: [https://github.com/decile-team/trust](https://github.com/decile-team/trust)
 

@@ -4,10 +4,9 @@ nav:
   order: 2
   tooltip: AAAI-23 Lab Tutorial
 ---
-<!-- # <i class="fa-solid fa-chalkboard-user"></i>  -->
 # Subset Selection in Machine Learning: Hands-On Application with CORDS, DISTIL, SUBMODLIB, and TRUST
-<div align="center"><h4>The 37th AAAI Conference on Artificial Intelligence, Washington DC, USA</h4></div>
-<div align="center"><h4>February 23rd, 2023 08:30 AM EST - 12:30 PM EST</h4></div>
+### The 37th AAAI Conference on Artificial Intelligence, Washington DC, USA {style=text-align:center}
+### February 23rd, 2023 08:30 AM EST - 12:30 PM EST {style=text-align:center}
 
 {% include section.html dark=true%}
 *   [About Tutorial](#about-tutorial)
@@ -132,26 +131,66 @@ To see how CORDS is used in a full implementation, a number of working demonstra
 
 {% include section.html %}
 # Organizers {#organizers}
+<div id="team" class='container container-team mx-auto mt-5 col-md-10 mt-100'>
+<div class="row justify-content-center pb-5">
+<div class="card col-md-3 mt-100">
+    <div class="card-content">
+        <div class="card-body p-0">
+            <div class="profile"> <img src="../images/nathan-beck.jpg"  width="120" 
+     height="120"> </div>
+            <a href="">
+                <div class="card-title mt-4"> Nathan Beck<br /> <small>PhD Student, University of Texas at Dallas
+                    </small>
+                </div>
+            </a>
+          </div>
+      </div>
+</div>
 
-![](images/nathan-beck.jpg)[
-Nathan Beck  
-PhD Student, University of Texas Dallas]()
 
+<div class="card col-md-3 mt-100">
+    <div class="card-content">
+        <div class="card-body p-0">
+            <div class="profile"> <img src="../images/suraj-kothawade.jpg"  width="120" 
+     height="120"> </div>
+            <a href="">
+                <div class="card-title mt-4"> Suraj Kothawade<br /> <small>PhD Student, University of Texas at Dallas
+                    </small>
+                </div>
+            </a>
+          </div>
+      </div>
+</div>
 
-![](images/suraj-kothawade.jpg)[
-Suraj Kothawade  
-PhD Student, University of Texas Dallas
-](http://personal.utdallas.edu/~snk170001/)
+<div class="card col-md-3 mt-100">
+    <div class="card-content">
+        <div class="card-body p-0">
+            <div class="profile"> <img src="../images/krishnateja-killamsetty.jpg"  width="120" 
+     height="120"> </div>
+            <a href="">
+                <div class="card-title mt-4"> Krishnateja Killamsetty<br /> <small>PhD Student, University of Texas at Dallas
+                    </small>
+                </div>
+            </a>
+          </div>
+      </div>
+</div>
 
-![](images/krishnateja-killamsetty.jpg)[
-Krishnateja Killamsetty  
-PhD Student, University of Texas Dallas
-](https://krishnatejakillamsetty.me/)
-
-![](images/rishabh-iyer.jpg)[
-Prof. Rishabh Iyer  
-Assistant Professor, University of Texas Dallas
-](https://www.rishiyer.com/)
+<div class="card col-md-3 mt-100">
+    <div class="card-content">
+        <div class="card-body p-0">
+            <div class="profile"> <img src="../images/rishabh-iyer.jpg"  width="120" 
+     height="120"> </div>
+            <a href="">
+                <div class="card-title mt-4"> Rishabh Iyer<br /> <small>Assistant Professor, University of Texas at Dallas
+                    </small>
+                </div>
+            </a>
+          </div>
+      </div>
+</div>
+</div>
+</div>
 
 {% include section.html dark=true%}
 # Contact Us {#contact-us}

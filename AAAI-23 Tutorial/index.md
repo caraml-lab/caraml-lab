@@ -6,7 +6,6 @@ nav:
 ---
 <!-- # <i class="fa-solid fa-chalkboard-user"></i>  -->
 # Subset Selection in Machine Learning: Hands-On Application with CORDS, DISTIL, SUBMODLIB, and TRUST
-<!-- <div align="center"><h3> Nathan Beck, Suraj Kothawade, Krishnateja Killamsetty, and Rishabh Iyer</h3></div> -->
 <div align="center"><h4>The 37th AAAI Conference on Artificial Intelligence, Washington DC, USA</h4></div>
 <div align="center"><h4>February 23rd, 2023 08:30 AM EST - 12:30 PM EST</h4></div>
 
@@ -134,36 +133,23 @@ To see how CORDS is used in a full implementation, a number of working demonstra
 {% include section.html %}
 # Organizers {#organizers}
 
-![](images/nathan-beck.jpg)
-
-[
-
+![](images/nathan-beck.jpg)[
 Nathan Beck  
-PhD Student, University of Texas Dallas
-
-]()
+PhD Student, University of Texas Dallas]()
 
 
-![](images/suraj-kothawade.jpg)
-
-[
-
+![](images/suraj-kothawade.jpg)[
 Suraj Kothawade  
 PhD Student, University of Texas Dallas
-
 ](http://personal.utdallas.edu/~snk170001/)
 
-![](images/krishnateja-killamsetty.jpg)
-
-[
-
+![](images/krishnateja-killamsetty.jpg)[
 Krishnateja Killamsetty  
 PhD Student, University of Texas Dallas
-
 ](https://krishnatejakillamsetty.me/)
 
-![](images/rishabh-iyer.jpg)
-[Prof. Rishabh Iyer  
+![](images/rishabh-iyer.jpg)[
+Prof. Rishabh Iyer  
 Assistant Professor, University of Texas Dallas
 ](https://www.rishiyer.com/)
 

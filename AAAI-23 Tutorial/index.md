@@ -5,8 +5,8 @@ nav:
   tooltip: AAAI-23 Lab Tutorial
 ---
 # Subset Selection in Machine Learning: Hands-On Application with CORDS, DISTIL, SUBMODLIB, and TRUST
-### The 37th AAAI Conference on Artificial Intelligence, Washington DC, USA {style=text-align:center}
-### February 23rd, 2023 08:30 AM EST - 12:30 PM EST {style=text-align:center}
+### The 37th AAAI Conference on Artificial Intelligence, Washington DC, USA
+### February 23rd, 2023 08:30 AM EST - 12:30 PM EST
 
 {% include section.html dark=true%}
 *   [About Tutorial](#about-tutorial)

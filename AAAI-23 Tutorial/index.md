@@ -153,7 +153,7 @@ To see how CORDS is used in a full implementation, a number of working demonstra
         <div class="card-body p-0">
             <div class="profile"> <img src="../images/suraj-kothawade.jpg"  width="120" 
      height="120"> </div>
-            <a href="">
+            <a href="https://personal.utdallas.edu/~snk170001/">
                 <div class="card-title mt-4"> Suraj Kothawade<br /> <small>PhD Student, University of Texas at Dallas
                     </small>
                 </div>
@@ -167,7 +167,7 @@ To see how CORDS is used in a full implementation, a number of working demonstra
         <div class="card-body p-0">
             <div class="profile"> <img src="../images/krishnateja-killamsetty.jpg"  width="120" 
      height="120"> </div>
-            <a href="">
+            <a href="https://krishnatejakillamsetty.me/">
                 <div class="card-title mt-4"> Krishnateja Killamsetty<br /> <small>PhD Student, University of Texas at Dallas
                     </small>
                 </div>
@@ -181,7 +181,7 @@ To see how CORDS is used in a full implementation, a number of working demonstra
         <div class="card-body p-0">
             <div class="profile"> <img src="../images/rishabh-iyer.jpg"  width="120" 
      height="120"> </div>
-            <a href="">
+            <a href="https://www.rishiyer.com/">
                 <div class="card-title mt-4"> Rishabh Iyer<br /> <small>Assistant Professor, University of Texas at Dallas
                     </small>
                 </div>
